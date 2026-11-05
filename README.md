@@ -16,4 +16,4 @@ python tools/build_course_data.py "../Create_and_Maintain_Websites_I_Khmer.docx"
 ```
 
 This rewrites `js/course-data.js` and `images/lessons/` (pictures are converted to WebP).
-Then bump `CACHE_VERSION` in `sw.js` so students get the new pictures.
+Then bump `CACHE_VERSION` in `sw.js` so students get the new pictures. 
