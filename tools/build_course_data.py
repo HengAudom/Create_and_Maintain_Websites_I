@@ -417,9 +417,9 @@ PREFACE = {
         "ដើម្បីឆ្លើយតបនឹងតម្រូវការនេះ វិទ្យាស្ថានពហុបច្ចេកទេសភូមិភាគតេជោសែនសៀមរាប បានរៀបចំឯកសារមេរៀន «ការបង្កើត និងថែទាំគេហទំព័រ I "
         "(Create and Maintain Websites I)» សម្រាប់ជាជំនួយដល់ការបង្រៀនរបស់គ្រូ និងការសិក្សារបស់និស្សិតដេប៉ាតឺម៉ង់ព័ត៌មានវិទ្យា "
         "កម្រិតសញ្ញាបត្រជាន់ខ្ពស់បច្ចេកទេស ដែលចាប់ផ្ដើមពីសូន្យ។\n\n"
-        "ខ្លឹមសារត្រូវបានរៀបចំតាមលំដាប់ Figma → HTML → CSS → JavaScript → Project ដោយមានឧទាហរណ៍កូដដែលអាចចម្លងទៅសាកល្បងបានភ្លាមៗ "
+        "ខ្លឹមសារត្រូវបានរៀបចំតាមលំដាប់ Penpot → HTML → CSS → JavaScript → Project ដោយមានឧទាហរណ៍កូដដែលអាចចម្លងទៅសាកល្បងបានភ្លាមៗ "
         "រូបភាពលទ្ធផលពិតក្នុង Browser លំហាត់អនុវត្ត និងសំណួរត្រួតពិនិត្យការយល់ដឹង។ មេរៀនទាំង ៩ រួមមាន ៖\n"
-        "- មេរៀនទី ១ ៖ ការរចនាចំណុចប្រទាក់គេហទំព័រក្នុង Figma\n"
+        "- មេរៀនទី ១ ៖ ការរចនាចំណុចប្រទាក់គេហទំព័រក្នុង Penpot\n"
         "- មេរៀនទី ២ ដល់ ទី ៤ ៖ HTML, HTML Forms និង CSS មូលដ្ឋាន\n"
         "- មេរៀនទី ៥ ៖ CSS Layout, Responsive Design និងសេចក្ដីផ្ដើម JavaScript\n"
         "- មេរៀនទី ៦ ដល់ ទី ៧ ៖ JavaScript មូលដ្ឋាន, DOM និង Events\n"
@@ -435,18 +435,18 @@ COURSE_INTRO = {
     "content": (
         "## ១. ការពិពណ៌នាអំពីមុខវិជ្ជា (Course Description)\n\n"
         "មុខវិជ្ជា **ការបង្កើត និងថែទាំគេហទំព័រ I (Create and Maintain Websites I)** ត្រូវបានរៀបចំសម្រាប់និស្សិតដេប៉ាតឺម៉ង់ព័ត៌មានវិទ្យា "
-        "កម្រិតសញ្ញាបត្រជាន់ខ្ពស់បច្ចេកទេស នៃវិទ្យាស្ថានពហុបច្ចេកទេសភូមិភាគតេជោសែនសៀមរាប (RPITSSR)។ និស្សិតរៀនរចនាគំរូ Website ក្នុង Figma "
+        "កម្រិតសញ្ញាបត្រជាន់ខ្ពស់បច្ចេកទេស នៃវិទ្យាស្ថានពហុបច្ចេកទេសភូមិភាគតេជោសែនសៀមរាប (RPITSSR)។ និស្សិតរៀនរចនាគំរូ Website ក្នុង Penpot "
         "បង្កើត Website មូលដ្ឋានដោយប្រើ HTML, CSS និង JavaScript ព្រមទាំងកែប្រែ និងថែទាំ Website សាមញ្ញបាន។ មិនតម្រូវឱ្យមានចំណេះដឹង Programming ជាមុនទេ។\n\n"
         "## ២. គោលដៅនៃមុខវិជ្ជា (Course Learning Outcomes)\n\n"
         "ក្រោយពេលបញ្ចប់មុខវិជ្ជានេះ និស្សិតនឹងមានសមត្ថភាព ៖\n"
-        "- រចនា Homepage ក្នុង Figma ដោយប្រើ Frames, Style Guide, Components និង Prototype\n"
+        "- រចនា Homepage ក្នុង Penpot ដោយប្រើ Boards, Style Guide, Components និង Prototype\n"
         "- សរសេររចនាសម្ព័ន្ធ HTML Document ដោយប្រើ Semantic HTML, Links, Images, Lists, Tables និង Forms\n"
         "- កំណត់រចនាប័ទ្មដោយ CSS (Selectors, Typography, Box Model, Display) និងរៀបចំ Layout ដោយ Flexbox និង Grid\n"
         "- ធ្វើឱ្យ Website បង្ហាញល្អលើ Desktop និង Mobile ដោយ Media Queries\n"
         "- សរសេរ JavaScript មូលដ្ឋាន (Variables, Conditions, Loops, Functions, Arrays) និងកែប្រែ DOM តាម Events\n"
         "- បង្កើត Final Website Project ធ្វើតេស្ត Debug និងថែទាំ Website (កែខ្លឹមសារ រៀបចំ File និង Backup)\n\n"
         "## ៣. ការវាយតម្លៃ (Assessment)\n\n"
-        "- **Figma Design ៖** ១៥%\n"
+        "- **Penpot Design ៖** ១៥%\n"
         "- **HTML Structure ៖** ២០%\n"
         "- **CSS Styling and Responsive Design ៖** ២០%\n"
         "- **JavaScript Functionality ៖** ១៥%\n"
@@ -456,7 +456,7 @@ COURSE_INTRO = {
 }
 
 REFERENCES = [
-    {"author": "Figma, Inc.", "year": "Online", "title": "Figma Help Center", "publisher": "https://help.figma.com/"},
+    {"author": "Penpot (Kaleidos)", "year": "Online", "title": "Penpot Help Center", "publisher": "https://help.penpot.app/"},
     {"author": "Mozilla (MDN Web Docs)", "year": "Online", "title": "HTML: HyperText Markup Language",
      "publisher": "https://developer.mozilla.org/en-US/docs/Web/HTML"},
     {"author": "Mozilla (MDN Web Docs)", "year": "Online", "title": "CSS: Cascading Style Sheets",

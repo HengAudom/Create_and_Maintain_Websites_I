@@ -10,7 +10,7 @@
  * Bump CACHE_VERSION after changing the shell file list OR replacing lesson images
  * (images are cache-first, so students would otherwise keep seeing old screenshots).
  */
-const CACHE_VERSION = 'web1-v1'; // Create and Maintain Websites I
+const CACHE_VERSION = 'web1-v2'; // Create and Maintain Websites I
 const SHELL_CACHE = `websites1-shell-${CACHE_VERSION}`;
 const IMAGE_CACHE = `websites1-images-${CACHE_VERSION}`;
 const FONT_CACHE = `websites1-fonts-${CACHE_VERSION}`;

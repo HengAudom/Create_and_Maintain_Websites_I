@@ -16,7 +16,7 @@ window.COURSE_DATA = {
   },
   "preface": {
     "title": "អារម្ភកថា",
-    "content": "សព្វថ្ងៃនេះ គេហទំព័រ (Website) បានក្លាយជាច្រកទ្វារសំខាន់សម្រាប់ស្ថាប័ន អាជីវកម្ម និងបុគ្គលគ្រប់រូប ក្នុងការផ្សព្វផ្សាយព័ត៌មាន ផ្ដល់សេវាកម្ម និងទំនាក់ទំនងជាមួយអតិថិជន។ ជំនាញរចនា និងបង្កើតគេហទំព័រ គឺជាជំនាញមូលដ្ឋានដែលទីផ្សារការងារផ្នែកព័ត៌មានវិទ្យាត្រូវការជាចាំបាច់។\n\nដើម្បីឆ្លើយតបនឹងតម្រូវការនេះ វិទ្យាស្ថានពហុបច្ចេកទេសភូមិភាគតេជោសែនសៀមរាប បានរៀបចំឯកសារមេរៀន «ការបង្កើត និងថែទាំគេហទំព័រ I (Create and Maintain Websites I)» សម្រាប់ជាជំនួយដល់ការបង្រៀនរបស់គ្រូ និងការសិក្សារបស់និស្សិតដេប៉ាតឺម៉ង់ព័ត៌មានវិទ្យា កម្រិតសញ្ញាបត្រជាន់ខ្ពស់បច្ចេកទេស ដែលចាប់ផ្ដើមពីសូន្យ។\n\nខ្លឹមសារត្រូវបានរៀបចំតាមលំដាប់ Figma → HTML → CSS → JavaScript → Project ដោយមានឧទាហរណ៍កូដដែលអាចចម្លងទៅសាកល្បងបានភ្លាមៗ រូបភាពលទ្ធផលពិតក្នុង Browser លំហាត់អនុវត្ត និងសំណួរត្រួតពិនិត្យការយល់ដឹង។ មេរៀនទាំង ៩ រួមមាន ៖\n- មេរៀនទី ១ ៖ ការរចនាចំណុចប្រទាក់គេហទំព័រក្នុង Figma\n- មេរៀនទី ២ ដល់ ទី ៤ ៖ HTML, HTML Forms និង CSS មូលដ្ឋាន\n- មេរៀនទី ៥ ៖ CSS Layout, Responsive Design និងសេចក្ដីផ្ដើម JavaScript\n- មេរៀនទី ៦ ដល់ ទី ៧ ៖ JavaScript មូលដ្ឋាន, DOM និង Events\n- មេរៀនទី ៨ ដល់ ទី ៩ ៖ គម្រោងបង្កើតគេហទំព័រ ការថែទាំ និងការបង្ហាញគម្រោង\n\nទោះបីជាអ្នករៀបចំបានខិតខំប្រឹងប្រែងយ៉ាងណាក្តី ក៏ឯកសារនេះប្រហែលជានៅមានការខ្វះខាតដោយអចេតនា។ អ្នករៀបចំរីករាយទទួលយកនូវរាល់មតិរិះគន់ប្រកបដោយស្ថាបនាពីសំណាក់គ្រូ និងនិស្សិតទាំងអស់ ដើម្បីបន្តកែលម្អឯកសារនេះឱ្យកាន់តែល្អប្រសើរ។",
+    "content": "សព្វថ្ងៃនេះ គេហទំព័រ (Website) បានក្លាយជាច្រកទ្វារសំខាន់សម្រាប់ស្ថាប័ន អាជីវកម្ម និងបុគ្គលគ្រប់រូប ក្នុងការផ្សព្វផ្សាយព័ត៌មាន ផ្ដល់សេវាកម្ម និងទំនាក់ទំនងជាមួយអតិថិជន។ ជំនាញរចនា និងបង្កើតគេហទំព័រ គឺជាជំនាញមូលដ្ឋានដែលទីផ្សារការងារផ្នែកព័ត៌មានវិទ្យាត្រូវការជាចាំបាច់។\n\nដើម្បីឆ្លើយតបនឹងតម្រូវការនេះ វិទ្យាស្ថានពហុបច្ចេកទេសភូមិភាគតេជោសែនសៀមរាប បានរៀបចំឯកសារមេរៀន «ការបង្កើត និងថែទាំគេហទំព័រ I (Create and Maintain Websites I)» សម្រាប់ជាជំនួយដល់ការបង្រៀនរបស់គ្រូ និងការសិក្សារបស់និស្សិតដេប៉ាតឺម៉ង់ព័ត៌មានវិទ្យា កម្រិតសញ្ញាបត្រជាន់ខ្ពស់បច្ចេកទេស ដែលចាប់ផ្ដើមពីសូន្យ។\n\nខ្លឹមសារត្រូវបានរៀបចំតាមលំដាប់ Penpot → HTML → CSS → JavaScript → Project ដោយមានឧទាហរណ៍កូដដែលអាចចម្លងទៅសាកល្បងបានភ្លាមៗ រូបភាពលទ្ធផលពិតក្នុង Browser លំហាត់អនុវត្ត និងសំណួរត្រួតពិនិត្យការយល់ដឹង។ មេរៀនទាំង ៩ រួមមាន ៖\n- មេរៀនទី ១ ៖ ការរចនាចំណុចប្រទាក់គេហទំព័រក្នុង Penpot\n- មេរៀនទី ២ ដល់ ទី ៤ ៖ HTML, HTML Forms និង CSS មូលដ្ឋាន\n- មេរៀនទី ៥ ៖ CSS Layout, Responsive Design និងសេចក្ដីផ្ដើម JavaScript\n- មេរៀនទី ៦ ដល់ ទី ៧ ៖ JavaScript មូលដ្ឋាន, DOM និង Events\n- មេរៀនទី ៨ ដល់ ទី ៩ ៖ គម្រោងបង្កើតគេហទំព័រ ការថែទាំ និងការបង្ហាញគម្រោង\n\nទោះបីជាអ្នករៀបចំបានខិតខំប្រឹងប្រែងយ៉ាងណាក្តី ក៏ឯកសារនេះប្រហែលជានៅមានការខ្វះខាតដោយអចេតនា។ អ្នករៀបចំរីករាយទទួលយកនូវរាល់មតិរិះគន់ប្រកបដោយស្ថាបនាពីសំណាក់គ្រូ និងនិស្សិតទាំងអស់ ដើម្បីបន្តកែលម្អឯកសារនេះឱ្យកាន់តែល្អប្រសើរ។",
     "signOff": {
       "location": "សៀមរាប",
       "date": "ឆ្នាំ២០២៦",
@@ -26,7 +26,7 @@ window.COURSE_DATA = {
   },
   "courseIntro": {
     "title": "សេចក្តីផ្តើមនៃមុខវិជ្ជា",
-    "content": "## ១. ការពិពណ៌នាអំពីមុខវិជ្ជា (Course Description)\n\nមុខវិជ្ជា **ការបង្កើត និងថែទាំគេហទំព័រ I (Create and Maintain Websites I)** ត្រូវបានរៀបចំសម្រាប់និស្សិតដេប៉ាតឺម៉ង់ព័ត៌មានវិទ្យា កម្រិតសញ្ញាបត្រជាន់ខ្ពស់បច្ចេកទេស នៃវិទ្យាស្ថានពហុបច្ចេកទេសភូមិភាគតេជោសែនសៀមរាប (RPITSSR)។ និស្សិតរៀនរចនាគំរូ Website ក្នុង Figma បង្កើត Website មូលដ្ឋានដោយប្រើ HTML, CSS និង JavaScript ព្រមទាំងកែប្រែ និងថែទាំ Website សាមញ្ញបាន។ មិនតម្រូវឱ្យមានចំណេះដឹង Programming ជាមុនទេ។\n\n## ២. គោលដៅនៃមុខវិជ្ជា (Course Learning Outcomes)\n\nក្រោយពេលបញ្ចប់មុខវិជ្ជានេះ និស្សិតនឹងមានសមត្ថភាព ៖\n- រចនា Homepage ក្នុង Figma ដោយប្រើ Frames, Style Guide, Components និង Prototype\n- សរសេររចនាសម្ព័ន្ធ HTML Document ដោយប្រើ Semantic HTML, Links, Images, Lists, Tables និង Forms\n- កំណត់រចនាប័ទ្មដោយ CSS (Selectors, Typography, Box Model, Display) និងរៀបចំ Layout ដោយ Flexbox និង Grid\n- ធ្វើឱ្យ Website បង្ហាញល្អលើ Desktop និង Mobile ដោយ Media Queries\n- សរសេរ JavaScript មូលដ្ឋាន (Variables, Conditions, Loops, Functions, Arrays) និងកែប្រែ DOM តាម Events\n- បង្កើត Final Website Project ធ្វើតេស្ត Debug និងថែទាំ Website (កែខ្លឹមសារ រៀបចំ File និង Backup)\n\n## ៣. ការវាយតម្លៃ (Assessment)\n\n- **Figma Design ៖** ១៥%\n- **HTML Structure ៖** ២០%\n- **CSS Styling and Responsive Design ៖** ២០%\n- **JavaScript Functionality ៖** ១៥%\n- **Final Website Project ៖** ២០%\n- **Attendance and Practical Exercises ៖** ១០%"
+    "content": "## ១. ការពិពណ៌នាអំពីមុខវិជ្ជា (Course Description)\n\nមុខវិជ្ជា **ការបង្កើត និងថែទាំគេហទំព័រ I (Create and Maintain Websites I)** ត្រូវបានរៀបចំសម្រាប់និស្សិតដេប៉ាតឺម៉ង់ព័ត៌មានវិទ្យា កម្រិតសញ្ញាបត្រជាន់ខ្ពស់បច្ចេកទេស នៃវិទ្យាស្ថានពហុបច្ចេកទេសភូមិភាគតេជោសែនសៀមរាប (RPITSSR)។ និស្សិតរៀនរចនាគំរូ Website ក្នុង Penpot បង្កើត Website មូលដ្ឋានដោយប្រើ HTML, CSS និង JavaScript ព្រមទាំងកែប្រែ និងថែទាំ Website សាមញ្ញបាន។ មិនតម្រូវឱ្យមានចំណេះដឹង Programming ជាមុនទេ។\n\n## ២. គោលដៅនៃមុខវិជ្ជា (Course Learning Outcomes)\n\nក្រោយពេលបញ្ចប់មុខវិជ្ជានេះ និស្សិតនឹងមានសមត្ថភាព ៖\n- រចនា Homepage ក្នុង Penpot ដោយប្រើ Boards, Style Guide, Components និង Prototype\n- សរសេររចនាសម្ព័ន្ធ HTML Document ដោយប្រើ Semantic HTML, Links, Images, Lists, Tables និង Forms\n- កំណត់រចនាប័ទ្មដោយ CSS (Selectors, Typography, Box Model, Display) និងរៀបចំ Layout ដោយ Flexbox និង Grid\n- ធ្វើឱ្យ Website បង្ហាញល្អលើ Desktop និង Mobile ដោយ Media Queries\n- សរសេរ JavaScript មូលដ្ឋាន (Variables, Conditions, Loops, Functions, Arrays) និងកែប្រែ DOM តាម Events\n- បង្កើត Final Website Project ធ្វើតេស្ត Debug និងថែទាំ Website (កែខ្លឹមសារ រៀបចំ File និង Backup)\n\n## ៣. ការវាយតម្លៃ (Assessment)\n\n- **Penpot Design ៖** ១៥%\n- **HTML Structure ៖** ២០%\n- **CSS Styling and Responsive Design ៖** ២០%\n- **JavaScript Functionality ៖** ១៥%\n- **Final Website Project ៖** ២០%\n- **Attendance and Practical Exercises ៖** ១០%"
   },
   "lessons": [
     {
@@ -35,18 +35,18 @@ window.COURSE_DATA = {
       "isAppendix": false,
       "appendixNum": null,
       "label": "មេរៀនទី ១",
-      "title": "ការចាប់ផ្ដើមជាមួយ Figma និងការរចនាចំណុចប្រទាក់គេហទំព័រ",
-      "fullTitle": "មេរៀនទី ១ ៖ ការចាប់ផ្ដើមជាមួយ Figma និងការរចនាចំណុចប្រទាក់គេហទំព័រ",
+      "title": "ការចាប់ផ្ដើមជាមួយ Penpot និងការរចនាចំណុចប្រទាក់គេហទំព័រ",
+      "fullTitle": "មេរៀនទី ១ ៖ ការចាប់ផ្ដើមជាមួយ Penpot និងការរចនាចំណុចប្រទាក់គេហទំព័រ",
       "kindLabel": "",
       "pageStart": 6,
       "pageEnd": 17,
       "objectives": [
         "យល់ពីរបៀបដែល Website ដំណើរការ និងតួនាទីរបស់ HTML, CSS និង JavaScript ក្នុង Front-end Web Development",
         "បែងចែកបានរវាងការរចនាចំណុចប្រទាក់ (UI) និងបទពិសោធន៍អ្នកប្រើ (UX)",
-        "បង្កើតគណនី Figma និងស្គាល់ផ្ទាំងការងារ (Interface) សំខាន់ៗរបស់ Figma",
-        "ប្រើ Frames, Shapes, Text និង Images ដើម្បីរៀបចំប្លង់ទំព័រ (Layout) បាន",
+        "បង្កើតគណនី Penpot និងស្គាល់ផ្ទាំងការងារ (Interface) សំខាន់ៗរបស់ Penpot",
+        "ប្រើ Boards, Shapes, Text និង Images ដើម្បីរៀបចំប្លង់ទំព័រ (Layout) បាន",
         "កំណត់ Colors, Typography, Spacing និង Alignment ឱ្យមានសណ្ដាប់ធ្នាប់",
-        "បង្កើត Component និង Prototype មូលដ្ឋាន ហើយរចនា Homepage សាមញ្ញមួយក្នុង Figma"
+        "បង្កើត Component និង Prototype មូលដ្ឋាន ហើយរចនា Homepage សាមញ្ញមួយក្នុង Penpot"
       ],
       "sections": [
         {
@@ -85,7 +85,7 @@ window.COURSE_DATA = {
               ],
               "rows": [
                 [
-                  "<strong>Figma</strong>",
+                  "<strong>Penpot</strong>",
                   "រចនាគំរូ (Design/Mockup) មុនសរសេរកូដ",
                   "ដូចជាគំនូរប្លង់ផ្ទះ មុនពេលសាងសង់"
                 ],
@@ -108,7 +108,7 @@ window.COURSE_DATA = {
             },
             {
               "type": "paragraph",
-              "text": "ក្នុងវគ្គនេះ សិស្សនឹងរៀនតាមលំដាប់ ៖ <strong>Figma → HTML → CSS → JavaScript → Project</strong>។ ពោលគឺ រចនាជាមុនសិន បន្ទាប់មកបំលែង Design ទៅជាកូដ ហើយចុងក្រោយធ្វើតេស្ត និងថែទាំ Website។"
+              "text": "ក្នុងវគ្គនេះ សិស្សនឹងរៀនតាមលំដាប់ ៖ <strong>Penpot → HTML → CSS → JavaScript → Project</strong>។ ពោលគឺ រចនាជាមុនសិន បន្ទាប់មកបំលែង Design ទៅជាកូដ ហើយចុងក្រោយធ្វើតេស្ត និងថែទាំ Website។"
             }
           ]
         },
@@ -144,7 +144,7 @@ window.COURSE_DATA = {
                 ],
                 [
                   "<strong>ឧបករណ៍/វិធី</strong>",
-                  "Figma, Style Guide, Components",
+                  "Penpot, Style Guide, Components",
                   "Wireframe, User Flow, ការសាកល្បងជាមួយអ្នកប្រើ"
                 ]
               ]
@@ -165,40 +165,40 @@ window.COURSE_DATA = {
           ]
         },
         {
-          "title": "១.៣. ការបង្កើតគណនី និងចាប់ផ្ដើមប្រើ Figma",
+          "title": "១.៣. ការបង្កើតគណនី និងចាប់ផ្ដើមប្រើ Penpot",
           "items": [
             {
               "type": "paragraph",
-              "text": "Figma គឺជាកម្មវិធីរចនា UI ដែលដំណើរការលើ Browser (មិនចាំបាច់ដំឡើង) ឬអាចដំឡើងជាកម្មវិធី Desktop សម្រាប់ Windows និង macOS។ Figma មានគម្រោងឥតគិតថ្លៃ (Free/Starter Plan) ដែលគ្រប់គ្រាន់សម្រាប់ការរៀនក្នុងវគ្គនេះ។ ឯកសារទាំងអស់ត្រូវបានរក្សាទុកលើ Cloud ដោយស្វ័យប្រវត្តិ។"
+              "text": "<strong>Penpot</strong> គឺជាកម្មវិធីរចនា UI និង Prototype ប្រភពកូដចំហ (Open Source) និងឥតគិតថ្លៃ ដែលដំណើរការលើ Browser ដោយមិនចាំបាច់ដំឡើងកម្មវិធី។ ឯកសារត្រូវបានរក្សាទុកលើ Server ដោយស្វ័យប្រវត្តិ ហើយស្ថាប័នក៏អាចដំឡើង Penpot លើ Server ផ្ទាល់ខ្លួន (Self-host) បានផងដែរ។ Penpot ប្រើស្តង់ដារ Web (SVG, CSS និង HTML) ដូច្នេះ Design ងាយបំលែងទៅជាកូដ ដែលសមស្របសម្រាប់អ្នករៀនបង្កើតគេហទំព័រ។"
             },
             {
               "type": "bullets",
               "items": [
-                "<strong>ជំហានទី ១ ៖</strong> បើក Browser ហើយចូលទៅកាន់ `https://www.figma.com`។",
-                "<strong>ជំហានទី ២ ៖</strong> ចុចប៊ូតុង <strong>Sign up</strong> (ឬ Get started for free) រួចជ្រើសរើសចុះឈ្មោះដោយគណនី Google ឬដោយ Email និងពាក្យសម្ងាត់។",
-                "<strong>ជំហានទី ៣ ៖</strong> បំពេញព័ត៌មានដែល Figma សួរ (ឈ្មោះ និងតួនាទី) ហើយផ្ទៀងផ្ទាត់ Email ប្រសិនបើត្រូវបានស្នើ។",
-                "<strong>ជំហានទី ៤ ៖</strong> នៅទំព័រ File Browser (ទំព័រដើមរបស់ Figma) ចុចប៊ូតុងបង្កើតឯកសារថ្មី (<strong>+ Create</strong> ឬ <strong>New design file</strong>) ដើម្បីបើកផ្ទាំង Design ថ្មី។",
-                "<strong>ជំហានទី ៥ ៖</strong> ប្ដូរឈ្មោះឯកសារដោយចុចលើឈ្មោះ \"Untitled\" នៅខាងលើ រួចវាយឈ្មោះថ្មី ឧ. `Lesson01-Homepage`។"
+                "<strong>ជំហានទី ១ ៖</strong> បើក Browser ហើយចូលទៅកាន់ `https://design.penpot.app`។",
+                "<strong>ជំហានទី ២ ៖</strong> ចុចប៊ូតុង <strong>Sign up</strong> រួចចុះឈ្មោះដោយ Email និងពាក្យសម្ងាត់ ឬប្រើគណនីដែលមាន ស្រាប់ (Google, GitHub ឬ GitLab)។ ការចុះឈ្មោះគឺឥតគិតថ្លៃ។",
+                "<strong>ជំហានទី ៣ ៖</strong> ផ្ទៀងផ្ទាត់ Email (ប្រសិនបើត្រូវបានស្នើ) ហើយបំពេញព័ត៌មានខ្លីៗដែល Penpot សួរនៅពេលចូលលើកដំបូង។",
+                "<strong>ជំហានទី ៤ ៖</strong> នៅទំព័រ <strong>Dashboard</strong> របស់ Penpot ចូលទៅផ្នែក <strong>Drafts</strong> រួចចុចប៊ូតុង <strong>+</strong> ដើម្បីបង្កើត ឯកសារ (File) ថ្មី។ ឯកសារនឹងបើកនៅក្នុងផ្ទាំងការងារ (Workspace)។",
+                "<strong>ជំហានទី ៥ ៖</strong> នៅ Dashboard ចុចពីរដងលើឈ្មោះឯកសារ ដើម្បីប្ដូរឈ្មោះ ឧ. `Lesson01-Homepage`។"
               ]
             },
             {
               "type": "callout",
               "kind": "warning",
-              "text": "<strong>ចំណាំ ៖</strong> Figma ធ្វើបច្ចុប្បន្នភាពផ្ទាំងការងាររបស់ខ្លួនជាប្រចាំ។ ឈ្មោះប៊ូតុង ឬទីតាំង Menu ខ្លះអាចខុសបន្តិច ពីសៀវភៅនេះ។ ប្រសិនបើរកមិនឃើញ សូមមើលឯកសារជំនួយផ្លូវការនៅ `https://help.figma.com/`។"
+              "text": "<strong>ចំណាំ ៖</strong> Penpot ធ្វើបច្ចុប្បន្នភាពផ្ទាំងការងាររបស់ខ្លួនជាប្រចាំ។ ឈ្មោះប៊ូតុង ឬទីតាំង Menu ខ្លះអាចខុសបន្តិច ពីសៀវភៅនេះ។ ប្រសិនបើរកមិនឃើញ សូមមើលឯកសារជំនួយផ្លូវការនៅ `https://help.penpot.app/` ឬចុចគ្រាប់ចុច <strong>?</strong> ក្នុង Penpot ដើម្បីមើលបញ្ជីផ្លូវកាត់ក្ដារចុច។"
             }
           ]
         },
         {
-          "title": "១.៤. ការយល់ដឹងអំពី Figma Interface និង Workspace (Figma Interface and Workspace)",
+          "title": "១.៤. ការយល់ដឹងអំពី Penpot Interface និង Workspace (Penpot Interface and Workspace)",
           "items": [
             {
               "type": "paragraph",
-              "text": "នៅពេលបើកឯកសារ Design ថ្មី Figma បង្ហាញផ្ទាំងការងារដែលមានផ្នែកសំខាន់ៗចំនួន ៤ ដូចរូបខាងក្រោម ៖"
+              "text": "នៅពេលបើកឯកសារ Design ថ្មី Penpot បង្ហាញផ្ទាំងការងារដែលមានផ្នែកសំខាន់ៗចំនួន ៤ ដូចរូបខាងក្រោម ៖"
             },
             {
               "type": "image",
               "src": "images/lessons/lesson-01/fig-02.webp",
-              "caption": "រូបភាពទី ១.២ ៖ ប្លង់សង្ខេបនៃផ្ទាំងការងារ Figma (Figma Design Editor)"
+              "caption": "រូបភាពទី ១.២ ៖ ប្លង់សង្ខេបនៃផ្ទាំងការងារ Penpot (Penpot Workspace)"
             },
             {
               "type": "table",
@@ -211,37 +211,37 @@ window.COURSE_DATA = {
                 [
                   "<strong>1</strong>",
                   "Toolbar (របារឧបករណ៍)",
-                  "ផ្ទុកឧបករណ៍សំខាន់ៗ ដូចជា Move, Frame, Shape (Rectangle, Ellipse...), Pen, Text និង Comment"
+                  "ផ្ទុកឧបករណ៍សំខាន់ៗ ដូចជា Move, Board, Rectangle, Ellipse, Text, Image, Path និង Comments"
                 ],
                 [
                   "<strong>2</strong>",
                   "Left Sidebar",
-                  "បង្ហាញ Pages និងបញ្ជី Layers (ស្រទាប់) ទាំងអស់ ព្រមទាំង Assets សម្រាប់ Components"
+                  "បង្ហាញ Pages និងបញ្ជី Layers (ស្រទាប់) ទាំងអស់ ព្រមទាំង Assets (Components, ពណ៌ និង Typography)"
                 ],
                 [
                   "<strong>3</strong>",
                   "Canvas (ផ្ទៃការងារ)",
-                  "ផ្ទៃធំនៅកណ្ដាលសម្រាប់គូរ និងរៀបចំ Frames និងវត្ថុ (Objects) ទាំងអស់"
+                  "ផ្ទៃធំនៅកណ្ដាលសម្រាប់គូរ និងរៀបចំ Boards និងវត្ថុ (Objects) ទាំងអស់"
                 ],
                 [
                   "<strong>4</strong>",
                   "Right Sidebar",
-                  "ផ្ទាំង <strong>Design</strong> សម្រាប់កំណត់ទំហំ ពណ៌ អក្សរ និង Layout; ផ្ទាំង <strong>Prototype</strong> សម្រាប់កំណត់អន្តរកម្ម; និងផ្នែក <strong>Export</strong>"
+                  "ផ្ទាំង <strong>Design</strong> សម្រាប់កំណត់ទំហំ ពណ៌ អក្សរ Layout និង Export; ផ្ទាំង <strong>Prototype</strong> សម្រាប់កំណត់អន្តរកម្ម; ផ្ទាំង <strong>Inspect</strong> សម្រាប់មើលទំហំ និងកូដ CSS/HTML។ ប៊ូតុង <strong>▷ (View mode)</strong> នៅខាងលើស្ដាំ សម្រាប់សាកល្បង Prototype"
                 ]
               ]
             },
             {
               "type": "paragraph",
-              "text": "ការរុករកលើ Canvas ៖ ប្រើ Mouse Scroll ដើម្បីរំកិលឡើងចុះ, សង្កត់ <strong>Space</strong> រួចអូស Mouse ដើម្បីរំកិលផ្ទៃ, ចុច <strong>Ctrl + Scroll</strong> ដើម្បីពង្រីក/បង្រួម, និងចុច <strong>Shift + 1</strong> ដើម្បីបង្ហាញវត្ថុទាំងអស់ឱ្យសម នឹងអេក្រង់ (Zoom to fit)។"
+              "text": "ការរុករកលើ Canvas ៖ ប្រើ Mouse Scroll ដើម្បីរំកិលឡើងចុះ, ចុច <strong>Ctrl + Scroll</strong> ដើម្បីពង្រីក/បង្រួម, ចុច <strong>Shift + 1</strong> ដើម្បីបង្ហាញវត្ថុទាំងអស់ឱ្យសមនឹងអេក្រង់ (Zoom to fit all) និង <strong>Shift + 0</strong> ដើម្បីត្រឡប់ទៅទំហំ 100%។"
             }
           ]
         },
         {
-          "title": "១.៥. ការប្រើប្រាស់ Frames, Shapes, Text និង Images",
+          "title": "១.៥. ការប្រើប្រាស់ Boards, Shapes, Text និង Images",
           "items": [
             {
               "type": "paragraph",
-              "text": "<strong>Frame</strong> គឺជាផ្ទាំងតំណាងឱ្យអេក្រង់មួយ (ឧ. ទំព័រ Desktop ឬអេក្រង់ទូរស័ព្ទ)។ គ្រប់ Design ទំព័រគេហទំព័រ ត្រូវចាប់ផ្ដើមដោយ Frame។ ចុចឧបករណ៍ Frame (គ្រាប់ចុច <strong>F</strong>) បន្ទាប់មកជ្រើសទំហំគំរូ (Preset) នៅ Right Sidebar ដូចជា <strong>Desktop (1440 × 1024)</strong> ឬ <strong>iPhone</strong> ។ល។ ឬអូស Mouse លើ Canvas ដើម្បីគូរ Frame ដោយខ្លួនឯង។"
+              "text": "<strong>Board</strong> គឺជាផ្ទាំងតំណាងឱ្យអេក្រង់មួយ (ឧ. ទំព័រ Desktop ឬអេក្រង់ទូរស័ព្ទ)។ គ្រប់ Design ទំព័រគេហទំព័រ ត្រូវចាប់ផ្ដើមដោយ Board។ ចុចឧបករណ៍ Board (គ្រាប់ចុច <strong>B</strong>) រួចអូស Mouse លើ Canvas ដើម្បីគូរ Board ហើយកំណត់ Width និង Height នៅផ្ទាំង Design (ឧ. <strong>1440 × 1024</strong>) ឬជ្រើសទំហំគំរូ (Board Presets) សម្រាប់ Web/Desktop ឬទូរស័ព្ទ។ Board អាចផ្ទុក Layers ផ្សេងៗ ស្រដៀងនឹង `<div>` ក្នុង HTML។"
             },
             {
               "type": "table",
@@ -257,8 +257,8 @@ window.COURSE_DATA = {
                   "ជ្រើសរើស ផ្លាស់ទី និងប្ដូរទំហំវត្ថុ"
                 ],
                 [
-                  "<strong>Frame</strong>",
-                  "F",
+                  "<strong>Board</strong>",
+                  "B",
                   "បង្កើតផ្ទាំងអេក្រង់ (Desktop, Tablet, Mobile)"
                 ],
                 [
@@ -268,7 +268,7 @@ window.COURSE_DATA = {
                 ],
                 [
                   "<strong>Ellipse</strong>",
-                  "O",
+                  "E",
                   "គូររាងរង្វង់ ឬពងក្រពើ (សង្កត់ Shift ដើម្បីបានរង្វង់មូល)"
                 ],
                 [
@@ -282,7 +282,7 @@ window.COURSE_DATA = {
                   "ចុចលើ Canvas រួចវាយអក្សរ"
                 ],
                 [
-                  "<strong>Pen</strong>",
+                  "<strong>Path</strong>",
                   "P",
                   "គូររាងតាមចិត្ត (Vector)"
                 ]
@@ -290,7 +290,7 @@ window.COURSE_DATA = {
             },
             {
               "type": "paragraph",
-              "text": "<strong>ការដាក់រូបភាព (Images) ៖</strong> អូសឯកសាររូបភាព (.png ឬ .jpg) ពី Folder ក្នុងកុំព្យូទ័រ ទម្លាក់ចូល Canvas ផ្ទាល់។ ម្យ៉ាងទៀត អាចគូរ Rectangle ជាមុន ហើយកំណត់ Fill ជា <strong>Image</strong> នៅ Right Sidebar ដើម្បីឱ្យរូបភាពពេញក្នុងរាងនោះ។"
+              "text": "<strong>ការដាក់រូបភាព (Images) ៖</strong> អូសឯកសាររូបភាព (.png ឬ .jpg) ពី Folder ក្នុងកុំព្យូទ័រ ទម្លាក់ចូល Canvas ផ្ទាល់ ឬចុចឧបករណ៍ <strong>Image</strong> (<strong>Shift + K</strong>) ដើម្បីជ្រើសរូបភាពពីកុំព្យូទ័រ។"
             },
             {
               "type": "paragraph",
@@ -313,16 +313,16 @@ window.COURSE_DATA = {
             {
               "type": "bullets",
               "items": [
-                "<strong>Colors (ពណ៌) ៖</strong> ជ្រើសពណ៌មេ (Primary) ១ ពណ៌បន្ថែម (Accent) ១ និងពណ៌ផ្ទៃ/អក្សរ។ កុំប្រើពណ៌ច្រើនពេក (៣–៥ ពណ៌គឺគ្រប់គ្រាន់)។ ពណ៌ក្នុង Figma សរសេរជាលេខកូដ HEX ដូចជា `#002060` ដែលអាចចម្លងទៅប្រើក្នុង CSS បានផ្ទាល់។",
+                "<strong>Colors (ពណ៌) ៖</strong> ជ្រើសពណ៌មេ (Primary) ១ ពណ៌បន្ថែម (Accent) ១ និងពណ៌ផ្ទៃ/អក្សរ។ កុំប្រើពណ៌ច្រើនពេក (៣–៥ ពណ៌គឺគ្រប់គ្រាន់)។ ពណ៌ក្នុង Penpot សរសេរជាលេខកូដ HEX ដូចជា `#002060` ដែលអាចចម្លងទៅប្រើក្នុង CSS បានផ្ទាល់។",
                 "<strong>Typography (ពុម្ពអក្សរ) ៖</strong> ប្រើពុម្ពអក្សរ ១–២ ប្រភេទ។ សម្រាប់អក្សរខ្មែរ អាចជ្រើស Kantumruy Pro, Battambang ឬ Noto Sans Khmer (មានក្នុង Google Fonts)។ កំណត់ទំហំឱ្យមានលំដាប់ ឧ. H1 = 40px, H2 = 28px, Body = 16px។",
                 "<strong>Spacing (គម្លាត) ៖</strong> ប្រើគម្លាតជាពហុគុណនៃ 8 (8, 16, 24, 32, 48px) ដើម្បីឱ្យប្លង់មើលទៅ មានរបៀប។",
-                "<strong>Alignment (ការតម្រឹម) ៖</strong> ជ្រើសវត្ថុច្រើន រួចប្រើប៊ូតុង Align (Left, Center, Right, Top...) នៅខាងលើ Right Sidebar។ Figma ក៏បង្ហាញបន្ទាត់ពណ៌ក្រហម (Smart Guides) ពេលវត្ថុតម្រឹមគ្នា។"
+                "<strong>Alignment (ការតម្រឹម) ៖</strong> ជ្រើសវត្ថុច្រើន រួចប្រើប៊ូតុង Align (Left, Center, Right, Top...) នៅខាងលើផ្ទាំង Design។ Penpot ក៏បង្ហាញបន្ទាត់តម្រឹម (Alignment Guides) ដោយស្វ័យប្រវត្តិ ពេលអូសវត្ថុឱ្យតម្រឹមគ្នា។"
               ]
             },
             {
               "type": "callout",
               "kind": "tip",
-              "text": "<strong>គន្លឹះ Auto Layout ៖</strong> ជ្រើស Frame ឬវត្ថុច្រើន រួចចុច <strong>Shift + A</strong> ដើម្បីបន្ថែម Auto Layout។ Auto Layout រៀបវត្ថុជាជួរដេក ឬជួរឈរ ដោយមានគម្លាត (Gap) និង Padding ស្មើគ្នាដោយស្វ័យប្រវត្តិ។ វាមានគំនិត ស្រដៀងនឹង CSS Flexbox ដែលនឹងរៀននៅមេរៀនទី ៥។"
+              "text": "<strong>គន្លឹះ Flex Layout ៖</strong> ជ្រើស Board ឬវត្ថុច្រើន រួចចុច <strong>Shift + A</strong> ដើម្បីបន្ថែម Flex Layout។ Flex Layout រៀបវត្ថុជាជួរដេក ឬជួរឈរ ដោយមានគម្លាត (Gap) និង Padding ស្មើគ្នាដោយស្វ័យប្រវត្តិ។ Penpot បង្កើត Flex Layout តាមស្តង់ដារ CSS Flexbox ដែលនឹងរៀននៅមេរៀនទី ៥ (ចុច <strong>Ctrl + Shift + A</strong> សម្រាប់ Grid Layout)។"
             }
           ]
         },
@@ -331,12 +331,12 @@ window.COURSE_DATA = {
           "items": [
             {
               "type": "paragraph",
-              "text": "<strong>Component</strong> គឺជាធាតុរចនាដែលអាចប្រើឡើងវិញបានច្រើនដង ដូចជា ប៊ូតុង Navigation Bar ឬ Card។ ជ្រើសវត្ថុ រួចចុច <strong>Ctrl + Alt + K</strong> (ឬចុចខ្លិក Mouse ស្ដាំ → Create component)។ វត្ថុដើមហៅថា <strong>Main Component</strong> ហើយច្បាប់ចម្លងហៅថា <strong>Instance</strong>។ នៅពេលកែ Main Component រាល់ Instances ទាំងអស់ប្ដូរតាមដោយស្វ័យប្រវត្តិ។"
+              "text": "<strong>Component</strong> គឺជាធាតុរចនាដែលអាចប្រើឡើងវិញបានច្រើនដង ដូចជា ប៊ូតុង Navigation Bar ឬ Card។ ជ្រើសវត្ថុ រួចចុច <strong>Ctrl + K</strong> (ឬចុចខ្លិក Mouse ស្ដាំ → Create component)។ វត្ថុដើមហៅថា <strong>Main Component</strong> ហើយច្បាប់ចម្លងហៅថា <strong>Copy</strong> (ឬ Instance)។ នៅពេលកែ Main Component រាល់ Copies ទាំងអស់ប្ដូរតាមដោយស្វ័យប្រវត្តិ។ Components ត្រូវបានរក្សាទុកក្នុងផ្ទាំង <strong>Assets</strong>។"
             },
             {
               "type": "image",
               "src": "images/lessons/lesson-01/fig-04.webp",
-              "caption": "រូបភាពទី ១.៤ ៖ Main Component និង Instances"
+              "caption": "រូបភាពទី ១.៤ ៖ Main Component និង Copies"
             },
             {
               "type": "paragraph",
@@ -345,26 +345,26 @@ window.COURSE_DATA = {
             {
               "type": "bullets",
               "items": [
-                "<strong>ជំហានទី ១ ៖</strong> បង្កើត Frame ពីរ ឧ. `Home` និង `About`។",
+                "<strong>ជំហានទី ១ ៖</strong> បង្កើត Board ពីរ ឧ. `Home` និង `About`។",
                 "<strong>ជំហានទី ២ ៖</strong> ចុចផ្ទាំង <strong>Prototype</strong> នៅ Right Sidebar។",
-                "<strong>ជំហានទី ៣ ៖</strong> ជ្រើសប៊ូតុង \"About Us\" ក្នុង Frame `Home` រួចអូសរង្វង់តូច (+) ទៅភ្ជាប់នឹង Frame `About`។",
-                "<strong>ជំហានទី ៤ ៖</strong> កំណត់ Interaction ៖ <strong>On click → Navigate to → About</strong> និងជ្រើស Animation (ឧ. Instant ឬ Smart animate)។",
-                "<strong>ជំហានទី ៥ ៖</strong> ចុចប៊ូតុង <strong>Present</strong> (រូប ▷ នៅខាងលើស្ដាំ) ដើម្បីសាកល្បងចុចប៊ូតុង។"
+                "<strong>ជំហានទី ៣ ៖</strong> ជ្រើសប៊ូតុង \"About Us\" ក្នុង Board `Home` រួចអូសខ្សែភ្ជាប់ (Connection) ទៅ Board `About`។",
+                "<strong>ជំហានទី ៤ ៖</strong> កំណត់ Interaction ៖ <strong>On click → Navigate to → About</strong> និងជ្រើស Animation (ឧ. Dissolve ឬ Slide)។",
+                "<strong>ជំហានទី ៥ ៖</strong> ចុចប៊ូតុង <strong>▷ (View mode)</strong> នៅខាងលើស្ដាំ ដើម្បីសាកល្បងចុចប៊ូតុង។"
               ]
             },
             {
               "type": "image",
               "src": "images/lessons/lesson-01/fig-05.webp",
-              "caption": "រូបភាពទី ១.៥ ៖ ការភ្ជាប់ Interaction ពី Frame Home ទៅ Frame About"
+              "caption": "រូបភាពទី ១.៥ ៖ ការភ្ជាប់ Interaction ពី Board Home ទៅ Board About"
             },
             {
               "type": "paragraph",
-              "text": "<strong>ការនាំចេញ (Export) ៖</strong> ជ្រើស Frame រួចនៅផ្នែក <strong>Export</strong> ខាងក្រោម Right Sidebar ចុច (+) ជ្រើសទម្រង់ PNG ឬ JPG និងទំហំ (1x, 2x) រួចចុច Export។ រូបភាពដែលនាំចេញអាចប្រើក្នុង Website ឬផ្ញើឱ្យគ្រូពិនិត្យ។"
+              "text": "<strong>ការនាំចេញ (Export) ៖</strong> ជ្រើស Board រួចនៅផ្នែក <strong>Export</strong> ក្នុងផ្ទាំង Design ចុច (+) ជ្រើសទម្រង់ (PNG, JPEG, WEBP, SVG ឬ PDF) និងទំហំ (1x, 2x) រួចចុច Export។ រូបភាពដែលនាំចេញអាចប្រើក្នុង Website ឬផ្ញើឱ្យគ្រូពិនិត្យ។ ម្យ៉ាងទៀត ផ្ទាំង <strong>Inspect</strong> បង្ហាញទំហំ ពណ៌ និងកូដ CSS/HTML របស់ Layer ដែលជ្រើស ដែលជួយច្រើនពេលបំលែង Design ទៅជាកូដ (មេរៀនទី ៨)។"
             }
           ]
         },
         {
-          "title": "១.៨. គម្រោងអនុវត្ត៖ រចនា Homepage សាមញ្ញសម្រាប់ Website មួយក្នុង Figma",
+          "title": "១.៨. គម្រោងអនុវត្ត៖ រចនា Homepage សាមញ្ញសម្រាប់ Website មួយក្នុង Penpot",
           "items": [
             {
               "type": "paragraph",
@@ -378,13 +378,13 @@ window.COURSE_DATA = {
             {
               "type": "bullets",
               "items": [
-                "<strong>ជំហានទី ១ ៖</strong> បង្កើត Frame <strong>Desktop (1440 × 1024)</strong> ដាក់ឈ្មោះ `Home - Desktop`។ (បើខ្លឹមសារ វែង អាចទាញ Frame ឱ្យខ្ពស់ជាងនេះបាន)",
+                "<strong>ជំហានទី ១ ៖</strong> បង្កើត Board <strong>Desktop (1440 × 1024)</strong> ដាក់ឈ្មោះ `Home - Desktop`។ (បើខ្លឹមសារ វែង អាចទាញ Board ឱ្យខ្ពស់ជាងនេះបាន)",
                 "<strong>ជំហានទី ២ ៖</strong> គូរ <strong>Header</strong> កម្ពស់ប្រហែល 80px ដែលមាន Logo (អត្ថបទ ឬរូបភាព) និង Navigation Links ៤ (ទំព័រដើម អំពីយើង សេវាកម្ម ទំនាក់ទំនង)។",
                 "<strong>ជំហានទី ៣ ៖</strong> រចនា <strong>Hero Section</strong> ដែលមានចំណងជើងធំ ប្រយោគណែនាំខ្លី និងប៊ូតុង Call-to-Action។",
-                "<strong>ជំហានទី ៤ ៖</strong> រចនា <strong>Content Section</strong> ដោយប្រើ Card ៣ (ធ្វើ Card ជា Component រួចប្រើ Instance ៣)។",
+                "<strong>ជំហានទី ៤ ៖</strong> រចនា <strong>Content Section</strong> ដោយប្រើ Card ៣ (ធ្វើ Card ជា Component រួចប្រើ Copy ៣)។",
                 "<strong>ជំហានទី ៥ ៖</strong> បន្ថែម <strong>Contact Section</strong> និង <strong>Footer</strong>។",
                 "<strong>ជំហានទី ៦ ៖</strong> ពិនិត្យ Style Guide ៖ ពណ៌ ទំហំអក្សរ និងគម្លាតត្រូវស្របគ្នា។ ដាក់ឈ្មោះ Layers និង Group ឱ្យមានរបៀប។",
-                "<strong>ជំហានទី ៧ ៖</strong> Export Frame ជា PNG ហើយចែករំលែក Link ឯកសារ Figma ឱ្យគ្រូ (ប៊ូតុង <strong>Share</strong> → Copy link)។"
+                "<strong>ជំហានទី ៧ ៖</strong> Export Board ជា PNG ហើយចែករំលែក Link ឯកសារ Penpot ឱ្យគ្រូ (ក្នុង View mode ចុច <strong>Share</strong> ដើម្បីបង្កើត Link)។"
               ]
             },
             {
@@ -425,7 +425,7 @@ window.COURSE_DATA = {
             {
               "type": "callout",
               "kind": "tip",
-              "text": "<strong>លំហាត់អនុវត្តន៍ជាក់ស្ដែងប្រចាំមេរៀនទី ១ (Hands-on Practice) ៖</strong>\n<strong>១.</strong> បង្កើតឯកសារ Figma ថ្មីឈ្មោះ `Practice01` ហើយគូរ Frame Desktop និង Frame Mobile (iPhone) មួយៗ។ ក្នុង Frame នីមួយៗ ដាក់ចំណងជើង ប៊ូតុង ១ និងរូបភាព ១។\n<strong>២.</strong> បង្កើត Style Guide តូចមួយ ដែលមានពណ៌ ៤ (Primary, Accent, Background, Text) និងទំហំអក្សរ ៣ កម្រិត (H1, H2, Body)។\n<strong>៣.</strong> បង្កើតប៊ូតុងជា Component រួចប្រើ Instance ៣ ដងនៅកន្លែងផ្សេងគ្នា។ សាកល្បងប្ដូរពណ៌ Main Component ហើយសង្កេតលទ្ធផល។\n<strong>៤.</strong> បញ្ចប់គម្រោង Homepage ក្នុងចំណុច ១.៨ និងបង្កើត Prototype ពី Home ទៅ About រួចចុច Present ដើម្បីសាកល្បង។"
+              "text": "<strong>លំហាត់អនុវត្តន៍ជាក់ស្ដែងប្រចាំមេរៀនទី ១ (Hands-on Practice) ៖</strong>\n<strong>១.</strong> បង្កើតឯកសារ Penpot ថ្មីឈ្មោះ `Practice01` ហើយគូរ Board Desktop និង Board Mobile (iPhone) មួយៗ។ ក្នុង Board នីមួយៗ ដាក់ចំណងជើង ប៊ូតុង ១ និងរូបភាព ១។\n<strong>២.</strong> បង្កើត Style Guide តូចមួយ ដែលមានពណ៌ ៤ (Primary, Accent, Background, Text) និងទំហំអក្សរ ៣ កម្រិត (H1, H2, Body)។\n<strong>៣.</strong> បង្កើតប៊ូតុងជា Component រួចប្រើ Copy ៣ ដងនៅកន្លែងផ្សេងគ្នា។ សាកល្បងប្ដូរពណ៌ Main Component ហើយសង្កេតលទ្ធផល។\n<strong>៤.</strong> បញ្ចប់គម្រោង Homepage ក្នុងចំណុច ១.៨ និងបង្កើត Prototype ពី Home ទៅ About រួចចុច ▷ (View mode) ដើម្បីសាកល្បង។"
             }
           ]
         },
@@ -456,7 +456,7 @@ window.COURSE_DATA = {
                     },
                     {
                       "key": "D",
-                      "text": "Figma"
+                      "text": "Penpot"
                     }
                   ],
                   "answer": "B",
@@ -490,7 +490,7 @@ window.COURSE_DATA = {
                 {
                   "number": 3,
                   "numberKh": "៣",
-                  "question": "ក្នុង Figma តើគ្រាប់ចុចកាត់ណាសម្រាប់ជ្រើសឧបករណ៍ Frame?",
+                  "question": "ក្នុង Penpot តើគ្រាប់ចុចកាត់ណាសម្រាប់ជ្រើសឧបករណ៍ Board?",
                   "options": [
                     {
                       "key": "A",
@@ -502,7 +502,7 @@ window.COURSE_DATA = {
                     },
                     {
                       "key": "C",
-                      "text": "F"
+                      "text": "B"
                     },
                     {
                       "key": "D",
@@ -510,12 +510,12 @@ window.COURSE_DATA = {
                     }
                   ],
                   "answer": "C",
-                  "answerNote": "F"
+                  "answerNote": "B"
                 },
                 {
                   "number": 4,
                   "numberKh": "៤",
-                  "question": "តើ Instance របស់ Component មានលក្ខណៈដូចម្ដេច?",
+                  "question": "តើ Copy របស់ Component មានលក្ខណៈដូចម្ដេច?",
                   "options": [
                     {
                       "key": "A",
@@ -531,7 +531,7 @@ window.COURSE_DATA = {
                     },
                     {
                       "key": "D",
-                      "text": "ជារូបភាព PNG ដែលនាំចេញពី Figma"
+                      "text": "ជារូបភាព PNG ដែលនាំចេញពី Penpot"
                     }
                   ],
                   "answer": "B",
@@ -540,7 +540,7 @@ window.COURSE_DATA = {
                 {
                   "number": 5,
                   "numberKh": "៥",
-                  "question": "តើផ្ទាំងណានៅ Right Sidebar ដែលប្រើសម្រាប់ភ្ជាប់ Interaction រវាង Frames?",
+                  "question": "តើផ្ទាំងណានៅ Right Sidebar ដែលប្រើសម្រាប់ភ្ជាប់ Interaction រវាង Boards?",
                   "options": [
                     {
                       "key": "A",
@@ -583,7 +583,7 @@ window.COURSE_DATA = {
                 {
                   "number": 3,
                   "numberKh": "៣",
-                  "question": "ហេតុអ្វីបានជាគួររចនាក្នុង Figma មុនពេលសរសេរកូដ HTML និង CSS?",
+                  "question": "ហេតុអ្វីបានជាគួររចនាក្នុង Penpot មុនពេលសរសេរកូដ HTML និង CSS?",
                   "answer": "ដើម្បីមើលឃើញប្លង់ ពណ៌ និងលំហូររួមជាមុន កែប្រែបានលឿនដោយមិនចាំបាច់កែកូដ អាចបង្ហាញ ឬសាកល្បងជាមួយអ្នកប្រើ/គ្រូ ហើយប្រើជាឯកសារណែនាំពេលសរសេរកូដ។"
                 },
                 {
@@ -595,15 +595,15 @@ window.COURSE_DATA = {
                 {
                   "number": 5,
                   "numberKh": "៥",
-                  "question": "ចូររៀបរាប់ជំហានបង្កើត Prototype ពី Frame \"Home\" ទៅ Frame \"About\"។",
-                  "answer": "បើកផ្ទាំង Prototype → ជ្រើសប៊ូតុងក្នុង Home → អូសខ្សែភ្ជាប់ទៅ Frame About → កំណត់ On click → Navigate to → About និង Animation → ចុច Present ដើម្បីសាកល្បង។"
+                  "question": "ចូររៀបរាប់ជំហានបង្កើត Prototype ពី Board \"Home\" ទៅ Board \"About\"។",
+                  "answer": "បើកផ្ទាំង Prototype → ជ្រើសប៊ូតុងក្នុង Home → អូសខ្សែភ្ជាប់ទៅ Board About → កំណត់ On click → Navigate to → About និង Animation → ចុច ▷ (View mode) ដើម្បីសាកល្បង។"
                 }
               ]
             },
             {
               "type": "callout",
               "kind": "note",
-              "text": "<strong>សង្ខេបមេរៀនទី ១ (Lesson Summary) ៖</strong>\n<strong>•</strong> Website ដំណើរការដោយ Browser ស្នើសុំឯកសារពី Web Server ហើយបង្ហាញ HTML (រចនាសម្ព័ន្ធ), CSS (រូបរាង) និង JavaScript (អន្តរកម្ម)។\n<strong>•</strong> UI ជារូបរាងដែលមើលឃើញ រីឯ UX ជាបទពិសោធន៍ និងភាពងាយស្រួលនៃការប្រើ។\n<strong>•</strong> Figma មាន Toolbar, Left Sidebar (Layers), Canvas និង Right Sidebar (Design/Prototype)។\n<strong>•</strong> Frame តំណាងឱ្យអេក្រង់មួយ; Shapes, Text និង Images ប្រើសម្រាប់រៀបចំខ្លឹមសារ។\n<strong>•</strong> Style Guide (ពណ៌ អក្សរ គម្លាត) ធ្វើឱ្យ Design ស៊ីសង្វាក់; Component ជួយប្រើធាតុឡើងវិញ; Prototype ជួយសាកល្បងលំហូរ។"
+              "text": "<strong>សង្ខេបមេរៀនទី ១ (Lesson Summary) ៖</strong>\n<strong>•</strong> Website ដំណើរការដោយ Browser ស្នើសុំឯកសារពី Web Server ហើយបង្ហាញ HTML (រចនាសម្ព័ន្ធ), CSS (រូបរាង) និង JavaScript (អន្តរកម្ម)។\n<strong>•</strong> UI ជារូបរាងដែលមើលឃើញ រីឯ UX ជាបទពិសោធន៍ និងភាពងាយស្រួលនៃការប្រើ។\n<strong>•</strong> Penpot មាន Toolbar, Left Sidebar (Pages, Layers, Assets), Canvas និង Right Sidebar (Design, Prototype, Inspect)។\n<strong>•</strong> Board តំណាងឱ្យអេក្រង់មួយ; Shapes, Text និង Images ប្រើសម្រាប់រៀបចំខ្លឹមសារ។\n<strong>•</strong> Style Guide (ពណ៌ អក្សរ គម្លាត) ធ្វើឱ្យ Design ស៊ីសង្វាក់; Component ជួយប្រើធាតុឡើងវិញ; Prototype ជួយសាកល្បងលំហូរ។"
             }
           ]
         }
@@ -942,7 +942,7 @@ window.COURSE_DATA = {
             {
               "type": "code",
               "title": "ឧទាហរណ៍កូដ ២.៤ ៖ បញ្ជីគ្មានលំដាប់ និងមានលំដាប់",
-              "code": "<h3>ជំនាញរបស់ខ្ញុំ</h3>\n<ul>\n  <li>Figma</li>\n  <li>HTML</li>\n  <li>CSS</li>\n</ul>\n\n<h3>ជំហានចម្អិនបាយ</h3>\n<ol>\n  <li>លាងអង្ករ</li>\n  <li>ដាក់ទឹក</li>\n  <li>ដាំឱ្យពុះ</li>\n</ol>"
+              "code": "<h3>ជំនាញរបស់ខ្ញុំ</h3>\n<ul>\n  <li>Penpot</li>\n  <li>HTML</li>\n  <li>CSS</li>\n</ul>\n\n<h3>ជំហានចម្អិនបាយ</h3>\n<ol>\n  <li>លាងអង្ករ</li>\n  <li>ដាក់ទឹក</li>\n  <li>ដាំឱ្យពុះ</li>\n</ol>"
             }
           ]
         },
@@ -1006,7 +1006,7 @@ window.COURSE_DATA = {
             {
               "type": "code",
               "title": "ឧទាហរណ៍កូដ ២.៦ ៖ Personal Profile Website (index.html)",
-              "code": "<!DOCTYPE html>\n<html lang=\"km\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>ប្រវត្តិរូបរបស់ខ្ញុំ</title>\n</head>\n<body>\n  <header>\n    <h1>សុខ ដារ៉ា (Sok Dara)</h1>\n    <p>សិស្សផ្នែកព័ត៌មានវិទ្យា - វិទ្យាស្ថានពហុបច្ចេកទេសភូមិភាគតេជោសែនសៀមរាប</p>\n    <nav>\n      <a href=\"#about\">អំពីខ្ញុំ</a> |\n      <a href=\"#skills\">ជំនាញ</a> |\n      <a href=\"#schedule\">កាលវិភាគ</a> |\n      <a href=\"#contact\">ទំនាក់ទំនង</a>\n    </nav>\n  </header>\n\n  <main>\n    <section id=\"about\">\n      <h2>អំពីខ្ញុំ</h2>\n      <img src=\"images/avatar.png\" alt=\"រូបថតរបស់ Sok Dara\" width=\"120\">\n      <p>ខ្ញុំឈ្មោះ <strong>សុខ ដារ៉ា</strong> រស់នៅខេត្តសៀមរាប។\n         ខ្ញុំចូលចិត្តរចនា និងបង្កើតគេហទំព័រ ហើយចង់ក្លាយជា <em>Web Developer</em>។</p>\n    </section>\n\n    <section id=\"skills\">\n      <h2>ជំនាញរបស់ខ្ញុំ</h2>\n      <ul>\n        <li>Figma (UI Design)</li>\n        <li>HTML</li>\n        <li>CSS</li>\n      </ul>\n      <h3>គោលដៅសិក្សា</h3>\n      <ol>\n        <li>បង្កើត Personal Website មួយ</li>\n        <li>រៀន JavaScript មូលដ្ឋាន</li>\n        <li>បង្កើត Website ឱ្យហាងក្នុងសហគមន៍</li>\n      </ol>\n    </section>\n\n    <section id=\"schedule\">\n      <h2>កាលវិភាគសិក្សា</h2>\n      <table border=\"1\">\n        <tr>\n          <th>សប្ដាហ៍</th>\n          <th>ខ្លឹមសារ</th>\n        </tr>\n        <tr>\n          <td>1</td>\n          <td>Figma and UI Design</td>\n        </tr>\n        <tr>\n          <td>2</td>\n          <td>HTML Fundamentals</td>\n        </tr>\n      </table>\n    </section>\n\n    <section id=\"contact\">\n      <h2>ទំនាក់ទំនង</h2>\n      <p>Email: <a href=\"mailto:dara@example.com\">dara@example.com</a></p>\n      <p>ស្វែងយល់បន្ថែមអំពី HTML នៅ\n         <a href=\"https://developer.mozilla.org/\" target=\"_blank\">MDN Web Docs</a></p>\n    </section>\n  </main>\n\n  <footer>\n    <p>&copy; 2026 Sok Dara. All rights reserved.</p>\n  </footer>\n</body>\n</html>"
+              "code": "<!DOCTYPE html>\n<html lang=\"km\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>ប្រវត្តិរូបរបស់ខ្ញុំ</title>\n</head>\n<body>\n  <header>\n    <h1>សុខ ដារ៉ា (Sok Dara)</h1>\n    <p>សិស្សផ្នែកព័ត៌មានវិទ្យា - វិទ្យាស្ថានពហុបច្ចេកទេសភូមិភាគតេជោសែនសៀមរាប</p>\n    <nav>\n      <a href=\"#about\">អំពីខ្ញុំ</a> |\n      <a href=\"#skills\">ជំនាញ</a> |\n      <a href=\"#schedule\">កាលវិភាគ</a> |\n      <a href=\"#contact\">ទំនាក់ទំនង</a>\n    </nav>\n  </header>\n\n  <main>\n    <section id=\"about\">\n      <h2>អំពីខ្ញុំ</h2>\n      <img src=\"images/avatar.png\" alt=\"រូបថតរបស់ Sok Dara\" width=\"120\">\n      <p>ខ្ញុំឈ្មោះ <strong>សុខ ដារ៉ា</strong> រស់នៅខេត្តសៀមរាប។\n         ខ្ញុំចូលចិត្តរចនា និងបង្កើតគេហទំព័រ ហើយចង់ក្លាយជា <em>Web Developer</em>។</p>\n    </section>\n\n    <section id=\"skills\">\n      <h2>ជំនាញរបស់ខ្ញុំ</h2>\n      <ul>\n        <li>Penpot (UI Design)</li>\n        <li>HTML</li>\n        <li>CSS</li>\n      </ul>\n      <h3>គោលដៅសិក្សា</h3>\n      <ol>\n        <li>បង្កើត Personal Website មួយ</li>\n        <li>រៀន JavaScript មូលដ្ឋាន</li>\n        <li>បង្កើត Website ឱ្យហាងក្នុងសហគមន៍</li>\n      </ol>\n    </section>\n\n    <section id=\"schedule\">\n      <h2>កាលវិភាគសិក្សា</h2>\n      <table border=\"1\">\n        <tr>\n          <th>សប្ដាហ៍</th>\n          <th>ខ្លឹមសារ</th>\n        </tr>\n        <tr>\n          <td>1</td>\n          <td>Penpot and UI Design</td>\n        </tr>\n        <tr>\n          <td>2</td>\n          <td>HTML Fundamentals</td>\n        </tr>\n      </table>\n    </section>\n\n    <section id=\"contact\">\n      <h2>ទំនាក់ទំនង</h2>\n      <p>Email: <a href=\"mailto:dara@example.com\">dara@example.com</a></p>\n      <p>ស្វែងយល់បន្ថែមអំពី HTML នៅ\n         <a href=\"https://developer.mozilla.org/\" target=\"_blank\">MDN Web Docs</a></p>\n    </section>\n  </main>\n\n  <footer>\n    <p>&copy; 2026 Sok Dara. All rights reserved.</p>\n  </footer>\n</body>\n</html>"
             },
             {
               "type": "image",
@@ -1550,7 +1550,7 @@ window.COURSE_DATA = {
                 [
                   "<strong>HEX</strong>",
                   "`#002060`, `#ffffff`",
-                  "ពេញនិយមបំផុត ចម្លងពី Figma បានផ្ទាល់"
+                  "ពេញនិយមបំផុត ចម្លងពី Penpot បានផ្ទាល់"
                 ],
                 [
                   "<strong>RGB</strong>",
@@ -2128,7 +2128,7 @@ window.COURSE_DATA = {
             {
               "type": "code",
               "title": "ឧទាហរណ៍កូដ ៤.៤ ៖ Profile Card និង Login Form (index.html - ផ្នែក body)",
-              "code": "<div class=\"card\">\n  <img class=\"avatar\" src=\"avatar.png\" alt=\"រូបថត Sok Dara\">\n  <h2 class=\"name\">សុខ ដារ៉ា</h2>\n  <p class=\"role\">Front-end Web Developer</p>\n  <p class=\"bio\">ចូលចិត្តរចនា UI ក្នុង Figma និងបង្កើតគេហទំព័រដោយ HTML និង CSS។</p>\n  <a class=\"btn\" href=\"#\">ទាក់ទងខ្ញុំ</a>\n</div>\n\n<form class=\"login\">\n  <h2>ចូលប្រើប្រាស់ (Login)</h2>\n  <label for=\"user\">Email</label>\n  <input type=\"email\" id=\"user\" placeholder=\"name@example.com\">\n  <label for=\"pass\">ពាក្យសម្ងាត់</label>\n  <input type=\"password\" id=\"pass\">\n  <button type=\"submit\">Login</button>\n</form>"
+              "code": "<div class=\"card\">\n  <img class=\"avatar\" src=\"avatar.png\" alt=\"រូបថត Sok Dara\">\n  <h2 class=\"name\">សុខ ដារ៉ា</h2>\n  <p class=\"role\">Front-end Web Developer</p>\n  <p class=\"bio\">ចូលចិត្តរចនា UI ក្នុង Penpot និងបង្កើតគេហទំព័រដោយ HTML និង CSS។</p>\n  <a class=\"btn\" href=\"#\">ទាក់ទងខ្ញុំ</a>\n</div>\n\n<form class=\"login\">\n  <h2>ចូលប្រើប្រាស់ (Login)</h2>\n  <label for=\"user\">Email</label>\n  <input type=\"email\" id=\"user\" placeholder=\"name@example.com\">\n  <label for=\"pass\">ពាក្យសម្ងាត់</label>\n  <input type=\"password\" id=\"pass\">\n  <button type=\"submit\">Login</button>\n</form>"
             },
             {
               "type": "code",
@@ -3938,7 +3938,7 @@ window.COURSE_DATA = {
             {
               "type": "callout",
               "kind": "note",
-              "text": "<strong>សង្ខេបមេរៀនទី ៧ (Lesson Summary) ៖</strong>\n<strong>•</strong> DOM ជា Tree នៃ Objects តំណាងឱ្យ HTML; `document` ជាចំណុចចាប់ផ្ដើម។\n<strong>•</strong> ជ្រើស Elements ដោយ `getElementById()`, `querySelector()` (ទីមួយ) និង `querySelectorAll()` (ទាំងអស់)។\n<strong>•</strong> កែ Content ដោយ `textContent`/`value`, Attributes ដោយ `setAttribute()`, និងរូបរាងដោយ `classList.add/remove/toggle`។\n<strong>•</strong> `addEventListener(\"click\"` ឬ `\"submit\", function)` ភ្ជាប់ Event ទៅ Function; `event.preventDefault()` បញ្ឈប់ការផ្ញើ Form។\n<strong>•</strong> Form Validation ពិនិត្យទិន្នន័យ និងបង្ហាញសារកំហុស/ជោគជ័យ; Developer Tools (Console, Elements) ជួយរកកំហុស។\n<strong>•</strong> Final Project ចាប់ផ្ដើមដោយ Project Plan, Figma Design និង Project Folder ដែលមានរបៀប។"
+              "text": "<strong>សង្ខេបមេរៀនទី ៧ (Lesson Summary) ៖</strong>\n<strong>•</strong> DOM ជា Tree នៃ Objects តំណាងឱ្យ HTML; `document` ជាចំណុចចាប់ផ្ដើម។\n<strong>•</strong> ជ្រើស Elements ដោយ `getElementById()`, `querySelector()` (ទីមួយ) និង `querySelectorAll()` (ទាំងអស់)។\n<strong>•</strong> កែ Content ដោយ `textContent`/`value`, Attributes ដោយ `setAttribute()`, និងរូបរាងដោយ `classList.add/remove/toggle`។\n<strong>•</strong> `addEventListener(\"click\"` ឬ `\"submit\", function)` ភ្ជាប់ Event ទៅ Function; `event.preventDefault()` បញ្ឈប់ការផ្ញើ Form។\n<strong>•</strong> Form Validation ពិនិត្យទិន្នន័យ និងបង្ហាញសារកំហុស/ជោគជ័យ; Developer Tools (Console, Elements) ជួយរកកំហុស។\n<strong>•</strong> Final Project ចាប់ផ្ដើមដោយ Project Plan, Penpot Design និង Project Folder ដែលមានរបៀប។"
             }
           ]
         }
@@ -3958,7 +3958,7 @@ window.COURSE_DATA = {
       "objectives": [
         "ជ្រើសប្រធានបទ កំណត់គោលដៅ និងវិសាលភាព Website ឱ្យសមស្របនឹងពេលវេលា",
         "រៀបចំ Project Folder និង File Structure ឱ្យមានរបៀប",
-        "បំលែង Figma Design ទៅជា HTML Structure និងរចនាដោយ CSS",
+        "បំលែង Penpot Design ទៅជា HTML Structure និងរចនាដោយ CSS",
         "រៀបចំ Responsive Layout និងបន្ថែម JavaScript Interaction យ៉ាងតិច ១–២ មុខងារ",
         "ធ្វើតេស្ត Debug និងអនុវត្ត Website Maintenance មូលដ្ឋាន (កែខ្លឹមសារ រៀបចំ File និង Backup)",
         "ត្រៀម Project សម្រាប់ការបង្ហាញ និងប្រគល់"
@@ -4027,7 +4027,7 @@ window.COURSE_DATA = {
           ]
         },
         {
-          "title": "៨.៣. ការបំលែង Figma Design ទៅជា HTML Structure",
+          "title": "៨.៣. ការបំលែង Penpot Design ទៅជា HTML Structure",
           "items": [
             {
               "type": "paragraph",
@@ -4036,7 +4036,7 @@ window.COURSE_DATA = {
             {
               "type": "table",
               "headers": [
-                "<strong>ផ្នែកក្នុង Figma</strong>",
+                "<strong>ផ្នែកក្នុង Penpot</strong>",
                 "<strong>HTML Element</strong>",
                 "<strong>ចំណាំ</strong>"
               ],
@@ -4054,7 +4054,7 @@ window.COURSE_DATA = {
                 [
                   "<strong>Cards (ម៉ឺនុយ/ផលិតផល)</strong>",
                   "`<article class=\"menu-item\">`",
-                  "Component ក្នុង Figma = Class ក្នុង CSS"
+                  "Component ក្នុង Penpot = Class ក្នុង CSS"
                 ],
                 [
                   "<strong>Contact Form</strong>",
@@ -4080,7 +4080,7 @@ window.COURSE_DATA = {
           "items": [
             {
               "type": "paragraph",
-              "text": "សរសេរ CSS តាមលំដាប់ផ្នែកនៃទំព័រ ហើយដាក់ Comment បែងចែកផ្នែកនីមួយៗ ដើម្បីងាយថែទាំ។ ចម្លងពណ៌ (HEX) និងទំហំអក្សរពី Style Guide ក្នុង Figma។"
+              "text": "សរសេរ CSS តាមលំដាប់ផ្នែកនៃទំព័រ ហើយដាក់ Comment បែងចែកផ្នែកនីមួយៗ ដើម្បីងាយថែទាំ។ ចម្លងពណ៌ (HEX) និងទំហំអក្សរពី Style Guide ក្នុង Penpot។"
             },
             {
               "type": "code",
@@ -4211,8 +4211,8 @@ window.COURSE_DATA = {
             {
               "type": "bullets",
               "items": [
-                "<strong>ប្រគល់ឯកសារ ៖</strong> Project Folder ទាំងមូល (ZIP) ដែលដាក់ឈ្មោះ ឈ្មោះសិស្ស`-final-project.zip` និង Link ឯកសារ Figma (Share → Copy link)។",
-                "<strong>ត្រៀមការបង្ហាញ ៖</strong> បើក Website ក្នុង Browser ជាមុន រៀបចំ Device Toolbar សម្រាប់បង្ហាញ Mobile និងបើក Figma ក្នុង Tab មួយទៀត។",
+                "<strong>ប្រគល់ឯកសារ ៖</strong> Project Folder ទាំងមូល (ZIP) ដែលដាក់ឈ្មោះ ឈ្មោះសិស្ស`-final-project.zip` និង Link ឯកសារ Penpot (Share → Copy link)។",
+                "<strong>ត្រៀមការបង្ហាញ ៖</strong> បើក Website ក្នុង Browser ជាមុន រៀបចំ Device Toolbar សម្រាប់បង្ហាញ Mobile និងបើក Penpot ក្នុង Tab មួយទៀត។",
                 "<strong>ត្រៀមការពន្យល់ ៖</strong> ជ្រើសកូដ ៣ ចំណុចដែលចង់ពន្យល់ ៖ HTML Structure មួយ, CSS (Flexbox/Grid ឬ Media Query) មួយ និង JavaScript Function មួយ។",
                 "<strong>ហាត់ពេលវេលា ៖</strong> ការបង្ហាញម្នាក់ប្រហែល ៣–៥ នាទី (មើលមេរៀនទី ៩)។"
               ]
@@ -4225,7 +4225,7 @@ window.COURSE_DATA = {
             {
               "type": "callout",
               "kind": "tip",
-              "text": "<strong>📋 បញ្ជីត្រួតពិនិត្យគម្រោង (Project Checklist) ៖</strong>\n☐ មាន Figma Design (Desktop និង Mobile) ដែលស្របនឹង Website\n☐ Project Folder មានរបៀប ៖ `index.html`, `css/style.css`, `js/script.js`, `images/`\n☐ HTML ប្រើ Semantic Elements (`header`, `nav`, `main`/`section`, `footer`) និងមាន `<h1>` តែមួយ\n☐ មានផ្នែក Header, Navigation, Hero, About/Content, Contact និង Footer\n☐ CSS ប្រើ External File, Flexbox ឬ Grid, និង Style Guide ស្របគ្នា\n☐ Responsive ៖ មាន Viewport Meta និង Media Query យ៉ាងតិច ១\n☐ JavaScript ៖ មានមុខងារយ៉ាងតិច ១–២ ដែលដំណើរការដោយគ្មាន Error\n☐ បានធ្វើតេស្តតាម Testing Checklist និងមាន Backup ZIP"
+              "text": "<strong>📋 បញ្ជីត្រួតពិនិត្យគម្រោង (Project Checklist) ៖</strong>\n☐ មាន Penpot Design (Desktop និង Mobile) ដែលស្របនឹង Website\n☐ Project Folder មានរបៀប ៖ `index.html`, `css/style.css`, `js/script.js`, `images/`\n☐ HTML ប្រើ Semantic Elements (`header`, `nav`, `main`/`section`, `footer`) និងមាន `<h1>` តែមួយ\n☐ មានផ្នែក Header, Navigation, Hero, About/Content, Contact និង Footer\n☐ CSS ប្រើ External File, Flexbox ឬ Grid, និង Style Guide ស្របគ្នា\n☐ Responsive ៖ មាន Viewport Meta និង Media Query យ៉ាងតិច ១\n☐ JavaScript ៖ មានមុខងារយ៉ាងតិច ១–២ ដែលដំណើរការដោយគ្មាន Error\n☐ បានធ្វើតេស្តតាម Testing Checklist និងមាន Backup ZIP"
             },
             {
               "type": "short-questions",
@@ -4240,8 +4240,8 @@ window.COURSE_DATA = {
                 {
                   "number": 2,
                   "numberKh": "២",
-                  "question": "ចូរបង្ហាញផ្នែកមួយក្នុង Figma Design ហើយពន្យល់ពីរបៀបដែលអ្នកបំលែងវាទៅជា HTML និង CSS។",
-                  "answer": "ឧ. Card ម៉ឺនុយក្នុង Figma (Component) → `<article class=\"menu-item\">` ក្នុង HTML; ពណ៌ HEX, Border Radius, Shadow និងគម្លាតពី Figma → Properties ក្នុង `.menu-item` របស់ CSS; Cards ៣ រៀបដោយ CSS Grid។"
+                  "question": "ចូរបង្ហាញផ្នែកមួយក្នុង Penpot Design ហើយពន្យល់ពីរបៀបដែលអ្នកបំលែងវាទៅជា HTML និង CSS។",
+                  "answer": "ឧ. Card ម៉ឺនុយក្នុង Penpot (Component) → `<article class=\"menu-item\">` ក្នុង HTML; ពណ៌ HEX, Border Radius, Shadow និងគម្លាតពី Penpot → Properties ក្នុង `.menu-item` របស់ CSS; Cards ៣ រៀបដោយ CSS Grid។"
                 },
                 {
                   "number": 3,
@@ -4266,7 +4266,7 @@ window.COURSE_DATA = {
             {
               "type": "callout",
               "kind": "note",
-              "text": "<strong>សង្ខេបមេរៀនទី ៨ (Lesson Summary) ៖</strong>\n<strong>•</strong> Final Project ជា One-page Website ដែលមាន Header, Navigation, Hero, Content, Contact និង Footer ដោយជ្រើសប្រធានបទសមស្រប។\n<strong>•</strong> Project Folder ស្តង់ដារ ៖ `index.html`, `css/`, `js/`, `images/`។\n<strong>•</strong> បំលែង Design ៖ Figma Sections → Semantic HTML; Style Guide → CSS; Components → Classes។\n<strong>•</strong> Responsive ដោយ Media Query; JavaScript បន្ថែម Mobile Menu និង Form Validation។\n<strong>•</strong> ធ្វើតេស្តតាម Checklist, Debug ដោយ Developer Tools ហើយថែទាំដោយកែខ្លឹមសារ រៀបចំ File និង Backup ជាប្រចាំ។"
+              "text": "<strong>សង្ខេបមេរៀនទី ៨ (Lesson Summary) ៖</strong>\n<strong>•</strong> Final Project ជា One-page Website ដែលមាន Header, Navigation, Hero, Content, Contact និង Footer ដោយជ្រើសប្រធានបទសមស្រប។\n<strong>•</strong> Project Folder ស្តង់ដារ ៖ `index.html`, `css/`, `js/`, `images/`។\n<strong>•</strong> បំលែង Design ៖ Penpot Sections → Semantic HTML; Style Guide → CSS; Components → Classes។\n<strong>•</strong> Responsive ដោយ Media Query; JavaScript បន្ថែម Mobile Menu និង Form Validation។\n<strong>•</strong> ធ្វើតេស្តតាម Checklist, Debug ដោយ Developer Tools ហើយថែទាំដោយកែខ្លឹមសារ រៀបចំ File និង Backup ជាប្រចាំ។"
             }
           ]
         }
@@ -4285,7 +4285,7 @@ window.COURSE_DATA = {
       "pageEnd": 109,
       "objectives": [
         "ត្រៀមឯកសារ និងតំណភ្ជាប់ Project ឱ្យរួចរាល់មុនការបង្ហាញ",
-        "បង្ហាញ Website និង Figma Design ឱ្យមានលំដាប់ និងច្បាស់លាស់ក្នុងពេលកំណត់",
+        "បង្ហាញ Website និង Penpot Design ឱ្យមានលំដាប់ និងច្បាស់លាស់ក្នុងពេលកំណត់",
         "ពន្យល់ពី HTML, CSS និង JavaScript ដែលបានប្រើក្នុងគម្រោង",
         "ឆ្លើយសំណួរ និងទទួលមតិយោបល់ ដើម្បីកែលម្អការងារ"
       ],
@@ -4296,12 +4296,12 @@ window.COURSE_DATA = {
             {
               "type": "callout",
               "kind": "tip",
-              "text": "<strong>📋 បញ្ជីត្រៀមមុនបង្ហាញ (Presentation Checklist) ៖</strong>\n☐ Website បើករួចក្នុង Browser (Chrome/Edge) និងដំណើរការដោយគ្មាន Error ក្នុង Console\n☐ Figma Design បើករួចក្នុង Tab មួយទៀត (Desktop និង Mobile Frames)\n☐ VS Code បើក Project Folder ដើម្បីបង្ហាញកូដ\n☐ Device Toolbar (Ctrl + Shift + M) ត្រៀមសម្រាប់បង្ហាញទិដ្ឋភាព Mobile\n☐ File ZIP របស់ Project និង Link Figma ត្រូវបានប្រគល់ឱ្យគ្រូរួច\n☐ ត្រៀមកូដ ៣ ចំណុចសម្រាប់ពន្យល់ (HTML, CSS, JavaScript)"
+              "text": "<strong>📋 បញ្ជីត្រៀមមុនបង្ហាញ (Presentation Checklist) ៖</strong>\n☐ Website បើករួចក្នុង Browser (Chrome/Edge) និងដំណើរការដោយគ្មាន Error ក្នុង Console\n☐ Penpot Design បើករួចក្នុង Tab មួយទៀត (Desktop និង Mobile Boards)\n☐ VS Code បើក Project Folder ដើម្បីបង្ហាញកូដ\n☐ Device Toolbar (Ctrl + Shift + M) ត្រៀមសម្រាប់បង្ហាញទិដ្ឋភាព Mobile\n☐ File ZIP របស់ Project និង Link Penpot ត្រូវបានប្រគល់ឱ្យគ្រូរួច\n☐ ត្រៀមកូដ ៣ ចំណុចសម្រាប់ពន្យល់ (HTML, CSS, JavaScript)"
             }
           ]
         },
         {
-          "title": "៩.២. ការបង្ហាញ Website និង Figma Design",
+          "title": "៩.២. ការបង្ហាញ Website និង Penpot Design",
           "items": [
             {
               "type": "paragraph",
@@ -4324,7 +4324,7 @@ window.COURSE_DATA = {
                 ],
                 [
                   "<strong>2</strong>",
-                  "Figma Design",
+                  "Penpot Design",
                   "Style Guide (ពណ៌ អក្សរ) Layout និង Component សំខាន់",
                   "45 វិនាទី"
                 ],
@@ -4402,7 +4402,7 @@ window.COURSE_DATA = {
               ],
               "rows": [
                 [
-                  "<strong>Figma Design</strong>",
+                  "<strong>Penpot Design</strong>",
                   "15%"
                 ],
                 [
@@ -4436,7 +4436,7 @@ window.COURSE_DATA = {
               "headers": [
                 "<strong>ឈ្មោះសិស្ស</strong>",
                 "<strong>ប្រធានបទ Website</strong>",
-                "<strong>Design (Figma)</strong>",
+                "<strong>Design (Penpot)</strong>",
                 "<strong>Code (HTML/CSS/JS)</strong>",
                 "<strong>Responsive</strong>",
                 "<strong>ការបង្ហាញ/ពន្យល់</strong>"
@@ -4490,8 +4490,8 @@ window.COURSE_DATA = {
                 {
                   "number": 2,
                   "numberKh": "២",
-                  "question": "តើ Style Guide ក្នុង Figma (ពណ៌ និង Font) ត្រូវបានយកមកប្រើក្នុង CSS យ៉ាងដូចម្ដេច?",
-                  "answer": "លេខកូដ HEX និងទំហំអក្សរពី Figma ត្រូវបានចម្លងទៅ Properties `color`, `background-color`, `font-family`, `font-size` ក្នុង `style.css` ដើម្បីឱ្យ Website ដូច Design។"
+                  "question": "តើ Style Guide ក្នុង Penpot (ពណ៌ និង Font) ត្រូវបានយកមកប្រើក្នុង CSS យ៉ាងដូចម្ដេច?",
+                  "answer": "លេខកូដ HEX និងទំហំអក្សរពី Penpot ត្រូវបានចម្លងទៅ Properties `color`, `background-color`, `font-family`, `font-size` ក្នុង `style.css` ដើម្បីឱ្យ Website ដូច Design។"
                 },
                 {
                   "number": 3,
@@ -4516,7 +4516,7 @@ window.COURSE_DATA = {
             {
               "type": "callout",
               "kind": "note",
-              "text": "<strong>សង្ខេបមេរៀនទី ៩ (Lesson Summary) ៖</strong>\n<strong>•</strong> ការត្រៀមល្អ (Website, Figma, VS Code, Device Toolbar, ZIP និង Link) ធ្វើឱ្យការបង្ហាញរលូន។\n<strong>•</strong> បង្ហាញតាមលំដាប់ ៖ គោលដៅ → Figma → Desktop → Mobile → JavaScript → សេចក្ដីសន្និដ្ឋាន ក្នុង ៣–៤ នាទី។\n<strong>•</strong> ពន្យល់កូដពិតប្រាកដដោយប្រើពាក្យបច្ចេកទេសត្រឹមត្រូវ (Semantic HTML, Flexbox/Grid, Media Query, Event, DOM)។\n<strong>•</strong> មតិយោបល់ក្លាយជាបញ្ជីកែលម្អសម្រាប់ការថែទាំ Website បន្ត។\n<strong>•</strong> ការវាយតម្លៃសរុប ៖ Figma 15%, HTML 20%, CSS/Responsive 20%, JavaScript 15%, Final Project 20%, វត្តមាន និងលំហាត់ 10%។"
+              "text": "<strong>សង្ខេបមេរៀនទី ៩ (Lesson Summary) ៖</strong>\n<strong>•</strong> ការត្រៀមល្អ (Website, Penpot, VS Code, Device Toolbar, ZIP និង Link) ធ្វើឱ្យការបង្ហាញរលូន។\n<strong>•</strong> បង្ហាញតាមលំដាប់ ៖ គោលដៅ → Penpot → Desktop → Mobile → JavaScript → សេចក្ដីសន្និដ្ឋាន ក្នុង ៣–៤ នាទី។\n<strong>•</strong> ពន្យល់កូដពិតប្រាកដដោយប្រើពាក្យបច្ចេកទេសត្រឹមត្រូវ (Semantic HTML, Flexbox/Grid, Media Query, Event, DOM)។\n<strong>•</strong> មតិយោបល់ក្លាយជាបញ្ជីកែលម្អសម្រាប់ការថែទាំ Website បន្ត។\n<strong>•</strong> ការវាយតម្លៃសរុប ៖ Penpot 15%, HTML 20%, CSS/Responsive 20%, JavaScript 15%, Final Project 20%, វត្តមាន និងលំហាត់ 10%។"
             }
           ]
         }
@@ -4540,11 +4540,11 @@ window.COURSE_DATA = {
           "items": [
             {
               "type": "paragraph",
-              "text": "ផ្លូវកាត់ក្ដារចុចខាងក្រោមជាផ្លូវកាត់លំនាំដើម (Default) សម្រាប់ប្រព័ន្ធប្រតិបត្តិការ Windows។ សម្រាប់ macOS ជាទូទៅប្ដូរ Ctrl → Cmd និង Alt → Option។ ផ្លូវកាត់អាចប្រែប្រួលតាមកំណែកម្មវិធី ឬការកំណត់ផ្ទាល់ខ្លួន ដូច្នេះអាចពិនិត្យបញ្ជីពេញក្នុងកម្មវិធីផ្ទាល់ ៖ Figma (<strong>Ctrl + Shift + ?</strong>), VS Code (<strong>Ctrl + K</strong> បន្ទាប់មក <strong>Ctrl + S</strong>)។"
+              "text": "ផ្លូវកាត់ក្ដារចុចខាងក្រោមជាផ្លូវកាត់លំនាំដើម (Default) សម្រាប់ប្រព័ន្ធប្រតិបត្តិការ Windows។ សម្រាប់ macOS ជាទូទៅប្ដូរ Ctrl → Cmd និង Alt → Option។ ផ្លូវកាត់អាចប្រែប្រួលតាមកំណែកម្មវិធី ឬការកំណត់ផ្ទាល់ខ្លួន ដូច្នេះអាចពិនិត្យបញ្ជីពេញក្នុងកម្មវិធីផ្ទាល់ ៖ Penpot (<strong>?</strong>), VS Code (<strong>Ctrl + K</strong> បន្ទាប់មក <strong>Ctrl + S</strong>)។"
             },
             {
               "type": "subsection",
-              "title": "<strong>ក. Figma</strong>"
+              "title": "<strong>ក. Penpot</strong>"
             },
             {
               "type": "table",
@@ -4563,9 +4563,9 @@ window.COURSE_DATA = {
                 ],
                 [
                   "<strong>2</strong>",
-                  "Frame Tool",
-                  "F (ឬ A)",
-                  "បង្កើត Frame (អេក្រង់)"
+                  "Board Tool",
+                  "B",
+                  "បង្កើត Board (អេក្រង់)"
                 ],
                 [
                   "<strong>3</strong>",
@@ -4576,7 +4576,7 @@ window.COURSE_DATA = {
                 [
                   "<strong>4</strong>",
                   "Ellipse Tool",
-                  "O",
+                  "E",
                   "គូររាងរង្វង់/ពងក្រពើ"
                 ],
                 [
@@ -4587,92 +4587,92 @@ window.COURSE_DATA = {
                 ],
                 [
                   "<strong>6</strong>",
-                  "Pen Tool",
+                  "Path Tool",
                   "P",
                   "គូររាង Vector តាមចិត្ត"
                 ],
                 [
                   "<strong>7</strong>",
+                  "Curve Tool",
+                  "Shift + C",
+                  "គូរបន្ទាត់ដោយដៃ (Freehand)"
+                ],
+                [
+                  "<strong>8</strong>",
                   "Text Tool",
                   "T",
                   "វាយអក្សរ"
                 ],
                 [
-                  "<strong>8</strong>",
-                  "Comment",
+                  "<strong>9</strong>",
+                  "Image",
+                  "Shift + K",
+                  "នាំចូលរូបភាព"
+                ],
+                [
+                  "<strong>10</strong>",
+                  "Comments",
                   "C",
                   "បន្ថែមមតិយោបល់"
                 ],
                 [
-                  "<strong>9</strong>",
-                  "Hand (រំកិលផ្ទៃ)",
-                  "សង្កត់ Space + អូស",
-                  "រំកិល Canvas បណ្ដោះអាសន្ន"
-                ],
-                [
-                  "<strong>10</strong>",
-                  "Add Auto Layout",
-                  "Shift + A",
-                  "រៀបវត្ថុជាជួរដោយស្វ័យប្រវត្តិ"
-                ],
-                [
                   "<strong>11</strong>",
-                  "Create Component",
-                  "Ctrl + Alt + K",
-                  "បង្កើត Main Component"
+                  "Add Flex Layout",
+                  "Shift + A",
+                  "រៀបវត្ថុជាជួរ (ដូច CSS Flexbox)"
                 ],
                 [
                   "<strong>12</strong>",
-                  "Group / Ungroup",
-                  "Ctrl + G / Ctrl + Shift + G",
-                  "ដាក់ជាក្រុម / បំបែកក្រុម"
+                  "Add Grid Layout",
+                  "Ctrl + Shift + A",
+                  "រៀបវត្ថុជាក្រឡា (ដូច CSS Grid)"
                 ],
                 [
                   "<strong>13</strong>",
-                  "Frame Selection",
-                  "Ctrl + Alt + G",
-                  "ដាក់វត្ថុដែលជ្រើសក្នុង Frame ថ្មី"
+                  "Create Component",
+                  "Ctrl + K",
+                  "បង្កើត Main Component"
                 ],
                 [
                   "<strong>14</strong>",
+                  "Group / Ungroup",
+                  "Ctrl + G / Shift + G",
+                  "ដាក់ជាក្រុម / បំបែកក្រុម"
+                ],
+                [
+                  "<strong>15</strong>",
                   "Duplicate",
                   "Ctrl + D",
                   "ចម្លងវត្ថុ"
                 ],
                 [
-                  "<strong>15</strong>",
-                  "Rename Layer",
-                  "Ctrl + R",
-                  "ប្ដូរឈ្មោះ Layer"
-                ],
-                [
                   "<strong>16</strong>",
-                  "Place Image",
-                  "Ctrl + Shift + K",
-                  "នាំចូលរូបភាព"
+                  "Rename Layer",
+                  "Alt + N",
+                  "ប្ដូរឈ្មោះ Layer ដែលជ្រើស"
                 ],
                 [
                   "<strong>17</strong>",
-                  "Zoom to Fit",
+                  "Export Shapes",
+                  "Ctrl + Shift + E",
+                  "នាំចេញ Layer ដែលជ្រើស"
+                ],
+                [
+                  "<strong>18</strong>",
+                  "Zoom to Fit All",
                   "Shift + 1",
                   "បង្ហាញវត្ថុទាំងអស់ពេញអេក្រង់"
                 ],
                 [
-                  "<strong>18</strong>",
-                  "Zoom to Selection",
-                  "Shift + 2",
-                  "ពង្រីកទៅវត្ថុដែលជ្រើស"
-                ],
-                [
                   "<strong>19</strong>",
-                  "Zoom to 100%",
+                  "Reset Zoom (100%)",
                   "Shift + 0",
                   "ទំហំពិត"
                 ],
                 [
                   "<strong>20</strong>",
                   "Show/Hide UI",
-                  "Ctrl + \\",
+                  "\\",
                   "លាក់/បង្ហាញ Panels ទាំងអស់"
                 ],
                 [
@@ -4928,15 +4928,15 @@ window.COURSE_DATA = {
                 ],
                 [
                   "<strong>4</strong>",
-                  "Auto Layout",
-                  "ប្លង់ស្វ័យប្រវត្តិ",
-                  "មុខងារ Figma រៀបវត្ថុជាជួរដោយមានគម្លាតស្មើ"
-                ],
-                [
-                  "<strong>5</strong>",
                   "Backup",
                   "ការបម្រុងទុក",
                   "ការចម្លងឯកសារទុក ដើម្បីការពារការបាត់បង់"
+                ],
+                [
+                  "<strong>5</strong>",
+                  "Board",
+                  "ផ្ទាំង Board (Board)",
+                  "ផ្ទាំងក្នុង Penpot តំណាងអេក្រង់មួយ ដែលអាចផ្ទុក Layers ផ្សេងៗ"
                 ],
                 [
                   "<strong>6</strong>",
@@ -4978,7 +4978,7 @@ window.COURSE_DATA = {
                   "<strong>12</strong>",
                   "Component",
                   "សមាសធាតុ (Component)",
-                  "ធាតុរចនាក្នុង Figma ដែលប្រើឡើងវិញបាន"
+                  "ធាតុរចនាក្នុង Penpot ដែលប្រើឡើងវិញបាន"
                 ],
                 [
                   "<strong>13</strong>",
@@ -5042,27 +5042,27 @@ window.COURSE_DATA = {
                 ],
                 [
                   "<strong>23</strong>",
+                  "Flex Layout",
+                  "ប្លង់បត់បែន (Flex Layout)",
+                  "មុខងារ Penpot រៀបវត្ថុជាជួរដេក ឬជួរឈរ តាមគោលការណ៍ CSS Flexbox"
+                ],
+                [
+                  "<strong>24</strong>",
                   "Flexbox",
                   "ប្លង់បត់បែន (Flexbox)",
                   "CSS Layout រៀប Items តាមទិសមួយ"
                 ],
                 [
-                  "<strong>24</strong>",
+                  "<strong>25</strong>",
                   "Form",
                   "ទម្រង់បែបបទ",
                   "ផ្នែកទទួលទិន្នន័យពីអ្នកប្រើ (`<form>`)"
                 ],
                 [
-                  "<strong>25</strong>",
+                  "<strong>26</strong>",
                   "Form Validation",
                   "ការផ្ទៀងផ្ទាត់ទម្រង់",
                   "ការពិនិត្យទិន្នន័យ Form មុនទទួលយក"
-                ],
-                [
-                  "<strong>26</strong>",
-                  "Frame",
-                  "ស៊ុម/ផ្ទាំងអេក្រង់ (Frame)",
-                  "ផ្ទាំងក្នុង Figma តំណាងអេក្រង់មួយ"
                 ],
                 [
                   "<strong>27</strong>",
@@ -5115,14 +5115,14 @@ window.COURSE_DATA = {
                 [
                   "<strong>35</strong>",
                   "Instance",
-                  "ច្បាប់ចម្លង (Instance)",
-                  "ច្បាប់ចម្លងរបស់ Main Component ក្នុង Figma"
+                  "ច្បាប់ចម្លង (Copy/Instance)",
+                  "ច្បាប់ចម្លងរបស់ Main Component ក្នុង Penpot"
                 ],
                 [
                   "<strong>36</strong>",
                   "Layer",
                   "ស្រទាប់",
-                  "វត្ថុនីមួយៗក្នុង Figma ដែលបង្ហាញក្នុង Layers Panel"
+                  "វត្ថុនីមួយៗក្នុង Penpot ដែលបង្ហាញក្នុង Layers Panel"
                 ],
                 [
                   "<strong>37</strong>",
@@ -5404,7 +5404,7 @@ window.COURSE_DATA = {
             },
             {
               "type": "subsection",
-              "title": "<strong>មេរៀនទី ១ ៖ ការចាប់ផ្ដើមជាមួយ Figma និងការរចនាចំណុចប្រទាក់គេហទំព័រ</strong>"
+              "title": "<strong>មេរៀនទី ១ ៖ ការចាប់ផ្ដើមជាមួយ Penpot និងការរចនាចំណុចប្រទាក់គេហទំព័រ</strong>"
             },
             {
               "type": "paragraph",
@@ -5426,7 +5426,7 @@ window.COURSE_DATA = {
             },
             {
               "type": "paragraph",
-              "text": "<strong>៣. ហេតុអ្វីបានជាគួររចនាក្នុង Figma មុនពេលសរសេរកូដ HTML និង CSS?</strong>"
+              "text": "<strong>៣. ហេតុអ្វីបានជាគួររចនាក្នុង Penpot មុនពេលសរសេរកូដ HTML និង CSS?</strong>"
             },
             {
               "type": "callout",
@@ -5444,12 +5444,12 @@ window.COURSE_DATA = {
             },
             {
               "type": "paragraph",
-              "text": "<strong>៥. ចូររៀបរាប់ជំហានបង្កើត Prototype ពី Frame \"Home\" ទៅ Frame \"About\"។</strong>"
+              "text": "<strong>៥. ចូររៀបរាប់ជំហានបង្កើត Prototype ពី Board \"Home\" ទៅ Board \"About\"។</strong>"
             },
             {
               "type": "callout",
               "kind": "tip",
-              "text": "ចម្លើយ ៖ បើកផ្ទាំង Prototype → ជ្រើសប៊ូតុងក្នុង Home → អូសខ្សែភ្ជាប់ទៅ Frame About → កំណត់ On click → Navigate to → About និង Animation → ចុច Present ដើម្បីសាកល្បង។"
+              "text": "ចម្លើយ ៖ បើកផ្ទាំង Prototype → ជ្រើសប៊ូតុងក្នុង Home → អូសខ្សែភ្ជាប់ទៅ Board About → កំណត់ On click → Navigate to → About និង Animation → ចុច ▷ (View mode) ដើម្បីសាកល្បង។"
             },
             {
               "type": "subsection",
@@ -5760,12 +5760,12 @@ window.COURSE_DATA = {
             },
             {
               "type": "paragraph",
-              "text": "<strong>២. ចូរបង្ហាញផ្នែកមួយក្នុង Figma Design ហើយពន្យល់ពីរបៀបដែលអ្នកបំលែងវាទៅជា HTML និង CSS។</strong>"
+              "text": "<strong>២. ចូរបង្ហាញផ្នែកមួយក្នុង Penpot Design ហើយពន្យល់ពីរបៀបដែលអ្នកបំលែងវាទៅជា HTML និង CSS។</strong>"
             },
             {
               "type": "callout",
               "kind": "tip",
-              "text": "ចម្លើយ ៖ ឧ. Card ម៉ឺនុយក្នុង Figma (Component) → `<article class=\"menu-item\">` ក្នុង HTML; ពណ៌ HEX, Border Radius, Shadow និងគម្លាតពី Figma → Properties ក្នុង `.menu-item` របស់ CSS; Cards ៣ រៀបដោយ CSS Grid។"
+              "text": "ចម្លើយ ៖ ឧ. Card ម៉ឺនុយក្នុង Penpot (Component) → `<article class=\"menu-item\">` ក្នុង HTML; ពណ៌ HEX, Border Radius, Shadow និងគម្លាតពី Penpot → Properties ក្នុង `.menu-item` របស់ CSS; Cards ៣ រៀបដោយ CSS Grid។"
             },
             {
               "type": "paragraph",
@@ -5809,12 +5809,12 @@ window.COURSE_DATA = {
             },
             {
               "type": "paragraph",
-              "text": "<strong>២. តើ Style Guide ក្នុង Figma (ពណ៌ និង Font) ត្រូវបានយកមកប្រើក្នុង CSS យ៉ាងដូចម្ដេច?</strong>"
+              "text": "<strong>២. តើ Style Guide ក្នុង Penpot (ពណ៌ និង Font) ត្រូវបានយកមកប្រើក្នុង CSS យ៉ាងដូចម្ដេច?</strong>"
             },
             {
               "type": "callout",
               "kind": "tip",
-              "text": "ចម្លើយ ៖ លេខកូដ HEX និងទំហំអក្សរពី Figma ត្រូវបានចម្លងទៅ Properties `color`, `background-color`, `font-family`, `font-size` ក្នុង `style.css` ដើម្បីឱ្យ Website ដូច Design។"
+              "text": "ចម្លើយ ៖ លេខកូដ HEX និងទំហំអក្សរពី Penpot ត្រូវបានចម្លងទៅ Properties `color`, `background-color`, `font-family`, `font-size` ក្នុង `style.css` ដើម្បីឱ្យ Website ដូច Design។"
             },
             {
               "type": "paragraph",
@@ -5877,8 +5877,8 @@ window.COURSE_DATA = {
               "rows": [
                 [
                   "<strong>1</strong>",
-                  "Figma Help Center",
-                  "`https://help.figma.com/` — ឯកសារផ្លូវការអំពី Frames, Components, Auto Layout, Prototyping និង Export"
+                  "Penpot Help Center",
+                  "`https://help.penpot.app/` — ឯកសារផ្លូវការអំពី Boards, Components, Flex Layout, Prototyping, Inspect និង Export"
                 ],
                 [
                   "<strong>2</strong>",
@@ -5934,10 +5934,10 @@ window.COURSE_DATA = {
   ],
   "references": [
     {
-      "author": "Figma, Inc.",
+      "author": "Penpot (Kaleidos)",
       "year": "Online",
-      "title": "Figma Help Center",
-      "publisher": "https://help.figma.com/"
+      "title": "Penpot Help Center",
+      "publisher": "https://help.penpot.app/"
     },
     {
       "author": "Mozilla (MDN Web Docs)",
